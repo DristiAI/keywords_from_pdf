@@ -9,6 +9,7 @@
 
 **get_output.py**  : <pre>loads the pickle file and takes command line arguments to display keywords and weights</pre>
 
+<br/>
 The package pytextrank is extensively used which is a python wrapper for TextRank library.
 
-Also , changes done to the pdf.py file of PyPDF2 package to support space after Tj/TJs 
+<pr>Note</pr> Some changes need to be done to the pdf.py file of PyPDF2 package to support space after Tj/TJ in this pdf 
