@@ -16,5 +16,5 @@ def print_keywords(n):
     for i in range(n):
         l=pickle.load(f) 
         print('{} , {}'.format(l[0],l[1]))
-        
+
 print_keywords(n)

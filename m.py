@@ -9,7 +9,7 @@ def pdf_to_text(filename):
         text='' 
         for i in range(Reader.numPages):
             page=Reader.getPage(i)
-            text+=page.extractText()
+            text+=page.extractText(Tj_sep=' ',TJ_sep=' ')
         return text
 if __name__=='__main__':
      text=pdf_to_text(filename)
