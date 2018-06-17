@@ -1,0 +1,935 @@
+{"count": 17, "ids": [1, 2], "pos": "np", "rank": 0.024229526292185916, "text": "java basics"}
+{"count": 141, "ids": [18], "pos": "vb", "rank": 0.01904727150559908, "text": "be"}
+{"count": 1, "ids": [1, 16], "pos": "np", "rank": 0.014636275991621735, "text": "java applets"}
+{"count": 16, "ids": [62], "pos": "np", "rank": 0.014009985990845403, "text": "c"}
+{"count": 1, "ids": [1, 72, 47], "pos": "np", "rank": 0.01269878009586635, "text": "java class library"}
+{"count": 4, "ids": [1, 11], "pos": "np", "rank": 0.012114763146092958, "text": "java program"}
+{"count": 1, "ids": [269, 162], "pos": "np", "rank": 0.011433886080750626, "text": "button object"}
+{"count": 10, "ids": [144], "pos": "np", "rank": 0.00950910396013547, "text": "method"}
+{"count": 4, "ids": [88, 89], "pos": "np", "rank": 0.009260190281207427, "text": "byte code"}
+{"count": 4, "ids": [435, 436], "pos": "np", "rank": 0.009134486087547567, "text": "new operator"}
+{"count": 1, "ids": [1, 54, 11], "pos": "np", "rank": 0.008437526405520613, "text": "java string programs"}
+{"count": 1, "ids": [84, 412], "pos": "np", "rank": 0.007990264559179465, "text": "example int"}
+{"count": 1, "ids": [269], "pos": "np", "rank": 0.00780867102006026, "text": "buttons"}
+{"count": 11, "ids": [16], "pos": "np", "rank": 0.0073181379958108675, "text": "applet"}
+{"count": 1, "ids": [121, 122], "pos": "np", "rank": 0.007014550055930999, "text": "array bounds"}
+{"count": 1, "ids": [67, 62], "pos": "np", "rank": 0.0070049929954227015, "text": "many c"}
+{"count": 1, "ids": [124, 125, 126], "pos": "np", "rank": 0.0068731025583927885, "text": "illegal data conversions"}
+{"count": 1, "ids": [77, 72, 47], "pos": "np", "rank": 0.006349390047933175, "text": "thesame class library"}
+{"count": 1, "ids": [1, 17], "pos": "np", "rank": 0.006057381573046479, "text": "java applications"}
+{"count": 1, "ids": [76, 54], "pos": "np", "rank": 0.0059748375492326205, "text": "use string"}
+{"count": 2, "ids": [435, 162], "pos": "np", "rank": 0.005716943040375313, "text": "new object"}
+{"count": 33, "ids": [2], "pos": "nnp", "rank": 0.005535763365432757, "text": "basics"}
+{"count": 1, "ids": [69, 2], "pos": "np", "rank": 0.005535763365432757, "text": "basicsjava basics"}
+{"count": 1, "ids": [210, 72], "pos": "np", "rank": 0.005119206997130521, "text": "public class"}
+{"count": 1, "ids": [1, 16, 72], "pos": "np", "rank": 0.004878758663873912, "text": "java applet class"}
+{"count": 5, "ids": [1, 21], "pos": "np", "rank": 0.004845905258437183, "text": "java language"}
+{"count": 1, "ids": [144, 16], "pos": "np", "rank": 0.004754551980067735, "text": "method applet"}
+{"count": 13, "ids": [56], "pos": "np", "rank": 0.004742245975312506, "text": "data"}
+{"count": 1, "ids": [62, 378, 379, 23], "pos": "np", "rank": 0.004669995330281801, "text": "c style block comments"}
+{"count": 1, "ids": [74, 98, 89], "pos": "np", "rank": 0.0046300951406037134, "text": "machine independentbyte code"}
+{"count": 12, "ids": [435, 269], "pos": "np", "rank": 0.0045672430437737836, "text": "new button"}
+{"count": 1, "ids": [375, 23], "pos": "np", "rank": 0.004322167771889421, "text": "testcommentsjava comments"}
+{"count": 7, "ids": [446], "pos": "np", "rank": 0.004303553252767181, "text": "memory"}
+{"count": 1, "ids": [408, 57, 200], "pos": "np", "rank": 0.004293893648457365, "text": "primitive type variables"}
+{"count": 1, "ids": [84, 511], "pos": "np", "rank": 0.004263908020227532, "text": "example t"}
+{"count": 5, "ids": [72], "pos": "np", "rank": 0.0042329266986221165, "text": "class"}
+{"count": 1, "ids": [54, 122], "pos": "np", "rank": 0.004218763202760306, "text": "string bounds"}
+{"count": 1, "ids": [84, 348], "pos": "np", "rank": 0.004195482037807591, "text": "example tag"}
+{"count": 1, "ids": [213, 1, 11], "pos": "np", "rank": 0.004155768163208074, "text": "b java programs"}
+{"count": 4, "ids": [1], "pos": "np", "rank": 0.004038254382030986, "text": "java"}
+{"count": 1, "ids": [412, 57], "pos": "np", "rank": 0.003995132279589733, "text": "int types"}
+{"count": 1, "ids": [269, 213], "pos": "np", "rank": 0.00390433551003013, "text": "button b"}
+{"count": 1, "ids": [372, 630], "pos": "np", "rank": 0.003871931755801808, "text": "return valuesarguments"}
+{"count": 4, "ids": [1, 162], "pos": "np", "rank": 0.0038112953602502083, "text": "java objects"}
+{"count": 1, "ids": [60, 355], "pos": "np", "rank": 0.003762310598443533, "text": "defined parameters"}
+{"count": 1, "ids": [204, 69, 2], "pos": "np", "rank": 0.0036905089102885046, "text": "atjava basicsjava basics"}
+{"count": 1, "ids": [75, 31], "pos": "np", "rank": 0.003527795804013153, "text": "javaruntime system"}
+{"count": 1, "ids": [121, 485], "pos": "np", "rank": 0.0035072750279654995, "text": "array objectsin"}
+{"count": 1, "ids": [62, 389], "pos": "np", "rank": 0.0035024964977113508, "text": "c stylecomments"}
+{"count": 1, "ids": [563, 144, 234, 256, 144, 564, 144, 234, 72, 144, 81], "pos": "np", "rank": 0.003437294086068423, "text": "namelistobj method args instance method callclass method args class method call"}
+{"count": 1, "ids": [84, 72, 125], "pos": "np", "rank": 0.0034365512791963942, "text": "example class data"}
+{"count": 1, "ids": [111, 152, 151], "pos": "np", "rank": 0.003413868159851768, "text": "such acompilation unit"}
+{"count": 2, "ids": [318], "pos": "np", "rank": 0.0033700479566486845, "text": "g"}
+{"count": 1, "ids": [119, 120], "pos": "np", "rank": 0.0032492916283774075, "text": "pointer arithmetic"}
+{"count": 3, "ids": [210, 125, 412, 551], "pos": "np", "rank": 0.0031784284455630063, "text": "public data int d"}
+{"count": 5, "ids": [27, 28], "pos": "np", "rank": 0.003175763000723284, "text": "garbage collection"}
+{"count": 1, "ids": [144, 267, 268], "pos": "np", "rank": 0.003169701320045157, "text": "method gui components"}
+{"count": 1, "ids": [129, 130], "pos": "np", "rank": 0.0031250391947868035, "text": "local file"}
+{"count": 1, "ids": [102, 103], "pos": "np", "rank": 0.003121174167066916, "text": "netscapenavigator browser"}
+{"count": 3, "ids": [427, 565], "pos": "np", "rank": 0.0031186914108567903, "text": "boolean expr"}
+{"count": 1, "ids": [414, 213], "pos": "np", "rank": 0.0031091031477044886, "text": "reference b"}
+{"count": 1, "ids": [359, 358], "pos": "np", "rank": 0.0031031581490015584, "text": "p1 value"}
+{"count": 1, "ids": [107, 89], "pos": "np", "rank": 0.003086730093735809, "text": "incorrect code"}
+{"count": 1, "ids": [634, 438, 412, 616], "pos": "np", "rank": 0.0030093177576113535, "text": "codeint foo int j"}
+{"count": 25, "ids": [76], "pos": "vbd", "rank": 0.0029874187746163103, "text": "used"}
+{"count": 1, "ids": [76, 412], "pos": "np", "rank": 0.0029874187746163103, "text": "use int"}
+{"count": 1, "ids": [29, 11], "pos": "np", "rank": 0.0029301957170651005, "text": "semanticsportabilityjava programs"}
+{"count": 1, "ids": [252, 16], "pos": "np", "rank": 0.002927255198324347, "text": "executionan applet"}
+{"count": 21, "ids": [100], "pos": "vbz", "rank": 0.002884559840160764, "text": "has"}
+{"count": 4, "ids": [162], "pos": "np", "rank": 0.0028584715201876564, "text": "objects"}
+{"count": 1, "ids": [176, 277], "pos": "np", "rank": 0.002839300357050698, "text": "other threads"}
+{"count": 2, "ids": [114, 54, 234], "pos": "np", "rank": 0.002812508801840204, "text": "main string args"}
+{"count": 1, "ids": [62, 378, 23], "pos": "np", "rank": 0.0028019971981690806, "text": "c style comments"}
+{"count": 2, "ids": [377, 318], "pos": "np", "rank": 0.0027962863754160514, "text": "e g"}
+{"count": 1, "ids": [292, 69, 2], "pos": "np", "rank": 0.0027678816827163785, "text": "otherjava basicsjava basics"}
+{"count": 4, "ids": [1, 90, 31], "pos": "np", "rank": 0.0026921695880206572, "text": "java runtime system"}
+{"count": 1, "ids": [412], "pos": "np", "rank": 0.002663421519726488, "text": "int"}
+{"count": 1, "ids": [376, 506], "pos": "np", "rank": 0.0025855981694409445, "text": "same task"}
+{"count": 1, "ids": [210, 238, 239], "pos": "np", "rank": 0.0025596034985652604, "text": "public static void"}
+{"count": 1, "ids": [49, 72], "pos": "np", "rank": 0.0025397560191732695, "text": "particular class"}
+{"count": 1, "ids": [432], "pos": "np", "rank": 0.0025216155493443136, "text": "stack"}
+{"count": 1, "ids": [256, 200], "pos": "np", "rank": 0.002476083093844383, "text": "instance variables"}
+{"count": 1, "ids": [16, 263], "pos": "np", "rank": 0.002439379331936956, "text": "applet constructor"}
+{"count": 1, "ids": [134, 135, 1, 21], "pos": "np", "rank": 0.0024229526292185916, "text": "native methodsrobustnessthe java language"}
+{"count": 1, "ids": [356, 355], "pos": "np", "rank": 0.002394301715391116, "text": "optional parameters"}
+{"count": 1, "ids": [267, 272, 144], "pos": "np", "rank": 0.0023772759900338677, "text": "gui inthis method"}
+{"count": 7, "ids": [435, 56], "pos": "np", "rank": 0.002371122987656253, "text": "new data"}
+{"count": 6, "ids": [121], "pos": "np", "rank": 0.002338183351977, "text": "arrays"}
+{"count": 1, "ids": [429, 226, 62], "pos": "np", "rank": 0.0023349976651409004, "text": "objectsa simple c"}
+{"count": 1, "ids": [1, 92, 89], "pos": "np", "rank": 0.002317194562953486, "text": "java source code"}
+{"count": 3, "ids": [210, 412, 125], "pos": "np", "rank": 0.0022910341861309296, "text": "public int data"}
+{"count": 1, "ids": [448, 162, 57], "pos": "np", "rank": 0.002286777216150125, "text": "equivalent object type"}
+{"count": 1, "ids": [435, 269, 452], "pos": "np", "rank": 0.0022836215218868918, "text": "new button pointerb"}
+{"count": 1, "ids": [210, 239, 290], "pos": "np", "rank": 0.002271341106963243, "text": "public void stop"}
+{"count": 1, "ids": [154, 155, 156], "pos": "np", "rank": 0.002226205552339597, "text": "package definition togroup"}
+{"count": 3, "ids": [1, 69, 2], "pos": "np", "rank": 0.0022143053461731025, "text": "java basicsjava basics"}
+{"count": 1, "ids": [114, 115], "pos": "np", "rank": 0.0021981499462092042, "text": "main lines"}
+{"count": 1, "ids": [458, 446, 459, 460], "pos": "np", "rank": 0.0021517766263835906, "text": "potential memory leakage problemsbecause"}
+{"count": 2, "ids": [16, 89, 352, 72, 353], "pos": "np", "rank": 0.0021477630270624994, "text": "applet code appletname class width"}
+{"count": 17, "ids": [57], "pos": "nns", "rank": 0.0021469468242286825, "text": "types"}
+{"count": 9, "ids": [408, 57], "pos": "np", "rank": 0.0021469468242286825, "text": "primitive types"}
+{"count": 3, "ids": [435, 511], "pos": "np", "rank": 0.002131954010113766, "text": "new t"}
+{"count": 11, "ids": [69], "pos": "nnp", "rank": 0.0021265412530917893, "text": "basicsjava"}
+{"count": 1, "ids": [189, 72], "pos": "np", "rank": 0.0021164633493110582, "text": "visible class"}
+{"count": 1, "ids": [54, 358], "pos": "np", "rank": 0.002109381601380153, "text": "string value"}
+{"count": 1, "ids": [235, 488], "pos": "np", "rank": 0.0021093375123128234, "text": "first element"}
+{"count": 1, "ids": [16, 265], "pos": "np", "rank": 0.0020908965702316766, "text": "applet creation"}
+{"count": 1, "ids": [386], "pos": "np", "rank": 0.002040624303834734, "text": "note"}
+{"count": 1, "ids": [11, 1, 11], "pos": "np", "rank": 0.002019127191015493, "text": "program java programs"}
+{"count": 1, "ids": [62, 430, 155, 111], "pos": "np", "rank": 0.002001426570120772, "text": "c struct definition such"}
+{"count": 14, "ids": [10], "pos": "vbz", "rank": 0.0019960725115928373, "text": "makes"}
+{"count": 1, "ids": [349, 432], "pos": "np", "rank": 0.0019801253879654897, "text": "similar stack"}
+{"count": 1, "ids": [402, 402], "pos": "np", "rank": 0.0019629437926734364, "text": "blah blah"}
+{"count": 1, "ids": [8], "pos": "np", "rank": 0.001956026778759635, "text": "section"}
+{"count": 14, "ids": [372], "pos": "nn", "rank": 0.001935965877900904, "text": "return"}
+{"count": 3, "ids": [276], "pos": "np", "rank": 0.0019198630082542293, "text": "animations"}
+{"count": 2, "ids": [210, 239, 261], "pos": "np", "rank": 0.0019148675127792986, "text": "public void init"}
+{"count": 17, "ids": [85], "pos": "vbz", "rank": 0.0019136797906616813, "text": "does"}
+{"count": 1, "ids": [474, 162, 54], "pos": "np", "rank": 0.0019056476801251041, "text": "usestringbuffer objects strings"}
+{"count": 1, "ids": [272, 144], "pos": "np", "rank": 0.0019018207920270943, "text": "inthis method"}
+{"count": 10, "ids": [60], "pos": "vb", "rank": 0.0018811552992217665, "text": "define"}
+{"count": 1, "ids": [1, 88, 89, 65], "pos": "np", "rank": 0.0018520380562414853, "text": "java byte code compiler"}
+{"count": 1, "ids": [84, 1, 69, 2], "pos": "np", "rank": 0.0018452544551442523, "text": "example java basicsjava basics"}
+{"count": 1, "ids": [16, 280, 281, 282], "pos": "np", "rank": 0.0018295344989527169, "text": "applet drawing area needsto"}
+{"count": 1, "ids": [74, 21], "pos": "np", "rank": 0.0018293834569944043, "text": "machine language"}
+{"count": 1, "ids": [439, 523, 377], "pos": "np", "rank": 0.001828023445843771, "text": "null employee e"}
+{"count": 1, "ids": [435, 269, 119], "pos": "np", "rank": 0.0018268972175095135, "text": "new button pointer"}
+{"count": 15, "ids": [440], "pos": "vbd", "rank": 0.0018210453077214847, "text": "allocated"}
+{"count": 1, "ids": [43], "pos": "np", "rank": 0.0018198067403368248, "text": "effect"}
+{"count": 3, "ids": [72, 155], "pos": "np", "rank": 0.0018141114422666213, "text": "class definition"}
+{"count": 1, "ids": [46, 47], "pos": "np", "rank": 0.0018085295039512992, "text": "dynamic library"}
+{"count": 1, "ids": [471], "pos": "np", "rank": 0.0018076979763020993, "text": "constants"}
+{"count": 13, "ids": [31], "pos": "nnp", "rank": 0.0017638979020065766, "text": "system"}
+{"count": 1, "ids": [1, 121], "pos": "np", "rank": 0.0017536375139827498, "text": "java arrays"}
+{"count": 1, "ids": [448, 62], "pos": "np", "rank": 0.0017512482488556754, "text": "equivalent c"}
+{"count": 1, "ids": [165, 17], "pos": "np", "rank": 0.001744434969625085, "text": "standalone applications"}
+{"count": 1, "ids": [408, 419, 420, 421, 422, 423], "pos": "np", "rank": 0.0017368517184028784, "text": "primitive typesprimitive typedescriptionbooleantrue falsebyte8 bitschar16 bits"}
+{"count": 2, "ids": [54, 468], "pos": "np", "rank": 0.001729416463300885, "text": "string literal"}
+{"count": 11, "ids": [81], "pos": "nn", "rank": 0.0017186470430342114, "text": "call"}
+{"count": 1, "ids": [210, 72, 315], "pos": "np", "rank": 0.0017064023323768403, "text": "public class applettemplate"}
+{"count": 1, "ids": [12, 11], "pos": "np", "rank": 0.001697799198887663, "text": "portable program"}
+{"count": 1, "ids": [232, 72, 233], "pos": "np", "rank": 0.0016422145325740468, "text": "5public class trivialapplication"}
+{"count": 1, "ids": [479, 162], "pos": "np", "rank": 0.0016334122972500892, "text": "toconvert objects"}
+{"count": 1, "ids": [312, 1, 16, 16], "pos": "np", "rank": 0.0016262528879579707, "text": "import java applet applet"}
+{"count": 1, "ids": [213, 442], "pos": "np", "rank": 0.0016178852481111023, "text": "b points"}
+{"count": 1, "ids": [1, 92, 130], "pos": "np", "rank": 0.0016153017528123944, "text": "java source file"}
+{"count": 1, "ids": [435, 436, 412], "pos": "np", "rank": 0.001598052911835893, "text": "new operator int"}
+{"count": 14, "ids": [551], "pos": "nn", "rank": 0.0015892142227815031, "text": "d"}
+{"count": 1, "ids": [551, 377], "pos": "np", "rank": 0.0015892142227815031, "text": "d e"}
+{"count": 11, "ids": [27], "pos": "nn", "rank": 0.001587881500361642, "text": "garbage"}
+{"count": 1, "ids": [27, 657], "pos": "np", "rank": 0.001587881500361642, "text": "garbage collectionan"}
+{"count": 1, "ids": [185, 144], "pos": "np", "rank": 0.0015848506600225785, "text": "predefined methods"}
+{"count": 1, "ids": [461, 1, 2], "pos": "np", "rank": 0.0015816466758379305, "text": "integer java basics"}
+{"count": 2, "ids": [130], "pos": "np", "rank": 0.0015625195973934017, "text": "file"}
+{"count": 11, "ids": [103], "pos": "nn", "rank": 0.001560587083533458, "text": "browser"}
+{"count": 1, "ids": [103, 118], "pos": "np", "rank": 0.001560587083533458, "text": "browser level"}
+{"count": 9, "ids": [565], "pos": "nn", "rank": 0.0015593457054283951, "text": "expr"}
+{"count": 1, "ids": [412, 565], "pos": "np", "rank": 0.0015593457054283951, "text": "int expr"}
+{"count": 1, "ids": [62, 26], "pos": "np", "rank": 0.0015566651100939338, "text": "c statements"}
+{"count": 12, "ids": [414], "pos": "nn", "rank": 0.0015545515738522443, "text": "reference"}
+{"count": 1, "ids": [414, 607], "pos": "np", "rank": 0.0015545515738522443, "text": "reference semantics"}
+{"count": 9, "ids": [358], "pos": "nn", "rank": 0.0015515790745007792, "text": "value"}
+{"count": 1, "ids": [360, 358], "pos": "np", "rank": 0.0015515790745007792, "text": "p2 value"}
+{"count": 1, "ids": [311, 15], "pos": "np", "rank": 0.0015468870939949221, "text": "basic structure"}
+{"count": 1, "ids": [188, 88, 89], "pos": "np", "rank": 0.0015433650468679044, "text": "independent byte code"}
+{"count": 1, "ids": [1, 150], "pos": "np", "rank": 0.0015143453932616197, "text": "java compilation"}
+{"count": 3, "ids": [616], "pos": "np", "rank": 0.0015046588788056767, "text": "j"}
+{"count": 1, "ids": [346, 16, 347, 346, 16, 348], "pos": "np", "rank": 0.0014968577485195086, "text": "html applet interfacethe html applet tag"}
+{"count": 1, "ids": [11], "pos": "np", "rank": 0.0014650978585325502, "text": "programs"}
+{"count": 1, "ids": [16, 370], "pos": "np", "rank": 0.001454115520158072, "text": "applet getparameter"}
+{"count": 10, "ids": [228], "pos": "vbg", "rank": 0.0014525780645512562, "text": "following"}
+{"count": 2, "ids": [378, 23], "pos": "np", "rank": 0.0014407225906298072, "text": "style comments"}
+{"count": 1, "ids": [446, 572], "pos": "np", "rank": 0.0014345177509223937, "text": "memory allocation"}
+{"count": 1, "ids": [491, 121, 162], "pos": "np", "rank": 0.0014292357600938282, "text": "generic array object"}
+{"count": 1, "ids": [57, 511], "pos": "np", "rank": 0.001421302673409177, "text": "type t"}
+{"count": 4, "ids": [277], "pos": "np", "rank": 0.001419650178525349, "text": "threads"}
+{"count": 4, "ids": [21], "pos": "np", "rank": 0.0014102721428971505, "text": "language"}
+{"count": 3, "ids": [1, 54], "pos": "np", "rank": 0.001406254400920102, "text": "java strings"}
+{"count": 3, "ids": [62, 89], "pos": "np", "rank": 0.0014009985990845403, "text": "c code"}
+{"count": 1, "ids": [492, 69, 2], "pos": "np", "rank": 0.0013839408413581892, "text": "elementsjava basicsjava basics"}
+{"count": 10, "ids": [125], "pos": "np", "rank": 0.0013746205116785576, "text": "data"}
+{"count": 1, "ids": [101, 37], "pos": "np", "rank": 0.0013664258141363368, "text": "latest versions"}
+{"count": 1, "ids": [321, 144], "pos": "np", "rank": 0.001358443422876496, "text": "appropriate methods"}
+{"count": 1, "ids": [448, 528, 529, 527], "pos": "np", "rank": 0.0013533539531932585, "text": "equivalent tothe const keyword"}
+{"count": 5, "ids": [234], "pos": "nn", "rank": 0.0013517243959434728, "text": "args"}
+{"count": 1, "ids": [521, 1, 69, 2], "pos": "np", "rank": 0.0013492867937950376, "text": "true java basicsjava basics"}
+{"count": 1, "ids": [221, 1, 17], "pos": "np", "rank": 0.0013460847940103286, "text": "own java applications"}
+{"count": 1, "ids": [427, 57], "pos": "np", "rank": 0.0013411838363124025, "text": "boolean types"}
+{"count": 1, "ids": [691, 692, 691, 664], "pos": "np", "rank": 0.0013396942227093009, "text": "programming effort programming errors"}
+{"count": 3, "ids": [435, 412], "pos": "np", "rank": 0.001331710759863244, "text": "new int"}
+{"count": 1, "ids": [266, 16], "pos": "np", "rank": 0.001330570544692885, "text": "initialize applet"}
+{"count": 8, "ids": [406], "pos": "vbn", "rank": 0.001326085819820711, "text": "referred"}
+{"count": 1, "ids": [313, 72, 314, 1, 313], "pos": "np", "rank": 0.0013177747822483827, "text": "awt class definitionsimport java awt"}
+{"count": 1, "ids": [423, 461, 618, 619], "pos": "np", "rank": 0.001315827105553918, "text": "bit integer copy assignment"}
+{"count": 1, "ids": [117, 118], "pos": "np", "rank": 0.001310249478135821, "text": "interpreter level"}
+{"count": 2, "ids": [258], "pos": "np", "rank": 0.0013016489406143372, "text": "messages"}
+{"count": 1, "ids": [376, 613], "pos": "np", "rank": 0.0012927990847204722, "text": "same way"}
+{"count": 1, "ids": [369, 144, 654], "pos": "np", "rank": 0.0012920057094932824, "text": "access method push"}
+{"count": 1, "ids": [241, 1, 233], "pos": "np", "rank": 0.0012752382259045218, "text": "command java trivialapplication"}
+{"count": 7, "ids": [148], "pos": "vb", "rank": 0.001275182340408527, "text": "contain"}
+{"count": 2, "ids": [490, 62], "pos": "np", "rank": 0.0012736350900768548, "text": "inc c"}
+{"count": 3, "ids": [121, 162], "pos": "np", "rank": 0.0012704317867500694, "text": "array object"}
+{"count": 1, "ids": [72, 130, 233, 72], "pos": "np", "rank": 0.0012698780095866348, "text": "class file trivialapplication class"}
+{"count": 1, "ids": [412, 412, 547, 548], "pos": "np", "rank": 0.001241848340200943, "text": "int int constant4float constant3"}
+{"count": 1, "ids": [1, 200], "pos": "np", "rank": 0.0012380415469221914, "text": "java variable"}
+{"count": 6, "ids": [19], "pos": "vbn", "rank": 0.001235893906318816, "text": "executed"}
+{"count": 1, "ids": [278, 279], "pos": "np", "rank": 0.001231974843749548, "text": "paint graphics"}
+{"count": 1, "ids": [49, 50, 51], "pos": "np", "rank": 0.001231296256487002, "text": "particular computer platform"}
+{"count": 1, "ids": [561, 69, 2], "pos": "np", "rank": 0.0012301696367628349, "text": "descriptionjava basicsjava basics"}
+{"count": 1, "ids": [331, 16, 332], "pos": "np", "rank": 0.001219689665968478, "text": "complete applet displays"}
+{"count": 4, "ids": [454, 269], "pos": "np", "rank": 0.0012158609965413826, "text": "sizeof button"}
+{"count": 1, "ids": [54, 468, 111], "pos": "np", "rank": 0.0012053609150743732, "text": "string literal such"}
+{"count": 6, "ids": [355], "pos": "nn", "rank": 0.001197150857695558, "text": "parameter"}
+{"count": 2, "ids": [355, 155], "pos": "np", "rank": 0.001197150857695558, "text": "parameter definitions"}
+{"count": 1, "ids": [54, 144, 472], "pos": "np", "rank": 0.0011886379950169338, "text": "string method length"}
+{"count": 1, "ids": [354, 355], "pos": "np", "rank": 0.0011811729295914267, "text": "height parameters"}
+{"count": 1, "ids": [90, 31], "pos": "np", "rank": 0.0011759319346710511, "text": "runtime system"}
+{"count": 1, "ids": [447], "pos": "np", "rank": 0.0011719764536604687, "text": "heap"}
+{"count": 1, "ids": [424, 543], "pos": "np", "rank": 0.0011688899788927269, "text": "unicode character"}
+{"count": 1, "ids": [349, 62], "pos": "np", "rank": 0.0011674988325704502, "text": "similar c"}
+{"count": 1, "ids": [272, 160], "pos": "np", "rank": 0.0011667275800099543, "text": "inthis state"}
+{"count": 1, "ids": [255], "pos": "np", "rank": 0.0011650303324602944, "text": "appletviewer"}
+{"count": 1, "ids": [664, 665, 2], "pos": "np", "rank": 0.001164179091320751, "text": "error pronejava basics"}
+{"count": 1, "ids": [621], "pos": "np", "rank": 0.0011641304635865983, "text": "clone"}
+{"count": 2, "ids": [17], "pos": "np", "rank": 0.0011629566464167232, "text": "applications"}
+{"count": 1, "ids": [1, 437, 438], "pos": "np", "rank": 0.0011599664475369267, "text": "java codevoid foo"}
+{"count": 5, "ids": [92], "pos": "nn", "rank": 0.001158597281476743, "text": "source"}
+{"count": 1, "ids": [396, 89, 397], "pos": "np", "rank": 0.0011575237851509284, "text": "normal code commentary"}
+{"count": 3, "ids": [435, 125], "pos": "np", "rank": 0.0011455170930654648, "text": "new data"}
+{"count": 1, "ids": [511, 162], "pos": "np", "rank": 0.0011433886080750625, "text": "t objects"}
+{"count": 1, "ids": [435, 505], "pos": "np", "rank": 0.0011418107609434459, "text": "new buttonsa"}
+{"count": 1, "ids": [499, 412], "pos": "np", "rank": 0.0011414663655970663, "text": "intsnew int"}
+{"count": 4, "ids": [290], "pos": "vb", "rank": 0.0011356705534816215, "text": "stop"}
+{"count": 1, "ids": [658, 27, 659], "pos": "np", "rank": 0.0011277329107868815, "text": "automatic garbage collector"}
+{"count": 1, "ids": [226, 409, 410, 411], "pos": "np", "rank": 0.0011257678045085544, "text": "simple syntax typename variablename"}
+{"count": 1, "ids": [602, 603], "pos": "np", "rank": 0.0011251080464628174, "text": "specific loop"}
+{"count": 1, "ids": [560, 532], "pos": "np", "rank": 0.0011246930326762015, "text": "objectgeneral expressionsitemexamples"}
+{"count": 1, "ids": [427, 318], "pos": "np", "rank": 0.0011233493188828947, "text": "boolean g"}
+{"count": 7, "ids": [155], "pos": "nn", "rank": 0.0011131027761697985, "text": "definition"}
+{"count": 1, "ids": [436, 579, 2], "pos": "np", "rank": 0.0011071526730865513, "text": "operator bindjava basics"}
+{"count": 1, "ids": [78, 312, 1], "pos": "np", "rank": 0.0011013421041902688, "text": "window import java"}
+{"count": 1, "ids": [556, 557, 558, 559], "pos": "np", "rank": 0.0010954335502284089, "text": "current objectsuperthe superclass view"}
+{"count": 1, "ids": [119], "pos": "np", "rank": 0.0010830972094591357, "text": "pointers"}
+{"count": 5, "ids": [610], "pos": "vbn", "rank": 0.0010827616900076426, "text": "passed"}
+{"count": 1, "ids": [221, 446], "pos": "np", "rank": 0.0010758883131917953, "text": "own memory"}
+{"count": 1, "ids": [239, 343], "pos": "np", "rank": 0.001075264998069521, "text": "void test"}
+{"count": 4, "ids": [9], "pos": "vbp", "rank": 0.001075045015072515, "text": "include"}
+{"count": 1, "ids": [353], "pos": "np", "rank": 0.0010738815135312497, "text": "width"}
+{"count": 1, "ids": [210, 239, 297], "pos": "np", "rank": 0.001065807369798197, "text": "public void destroy"}
+{"count": 1, "ids": [226, 227], "pos": "np", "rank": 0.001065203970893243, "text": "simple applicationconsider"}
+{"count": 1, "ids": [368], "pos": "np", "rank": 0.0010647689230124783, "text": "hspace"}
+{"count": 1, "ids": [150, 151], "pos": "np", "rank": 0.0010645593848186885, "text": "compilation unit"}
+{"count": 1, "ids": [125, 551], "pos": "np", "rank": 0.001059476148521002, "text": "data d"}
+{"count": 1, "ids": [72, 130], "pos": "np", "rank": 0.0010582316746555291, "text": "class files"}
+{"count": 4, "ids": [285], "pos": "vb", "rank": 0.0010557490340230666, "text": "draw"}
+{"count": 1, "ids": [54], "pos": "np", "rank": 0.0010546908006900766, "text": "string"}
+{"count": 1, "ids": [488, 493, 494], "pos": "np", "rank": 0.0010546687561564117, "text": "element typeelement 0element"}
+{"count": 1, "ids": [312, 1, 16], "pos": "np", "rank": 0.0010534576648776484, "text": "import java applet"}
+{"count": 1, "ids": [90, 514, 515], "pos": "np", "rank": 0.0010467860067096867, "text": "runtime exception calledarrayindexoutofboundsexception"}
+{"count": 1, "ids": [309, 305], "pos": "np", "rank": 0.001045995992731615, "text": "super dispose"}
+{"count": 1, "ids": [171, 172], "pos": "np", "rank": 0.0010429414739566631, "text": "www programmingthe"}
+{"count": 2, "ids": [171, 103], "pos": "np", "rank": 0.0010403913890223054, "text": "www browser"}
+{"count": 1, "ids": [200, 472, 54], "pos": "np", "rank": 0.00103990656610013, "text": "variable length strings"}
+{"count": 1, "ids": [589, 412, 529, 565], "pos": "np", "rank": 0.0010395638036189302, "text": "case int const expr"}
+{"count": 1, "ids": [552, 553, 554, 439, 162], "pos": "np", "rank": 0.0010394441891591478, "text": "suffixhexadecimal constant0x123octal constant077nullthe null object"}
+{"count": 1, "ids": [414, 611], "pos": "np", "rank": 0.0010363677159014963, "text": "reference injava"}
+{"count": 1, "ids": [92, 89], "pos": "np", "rank": 0.0010289100312452697, "text": "source code"}
+{"count": 1, "ids": [386, 555], "pos": "np", "rank": 0.001020312151917367, "text": "note lowercase"}
+{"count": 1, "ids": [471, 532], "pos": "np", "rank": 0.0010073343110760839, "text": "constant expressionsitemexamples"}
+{"count": 1, "ids": [615, 69, 2], "pos": "np", "rank": 0.001006502430078683, "text": "copyjava basicsjava basics"}
+{"count": 1, "ids": [412, 438, 412, 616], "pos": "np", "rank": 0.0010031059192037845, "text": "int foo int j"}
+{"count": 1, "ids": [537, 158, 538, 72], "pos": "np", "rank": 0.001002917411411942, "text": "obj member npackage class"}
+{"count": 1, "ids": [509, 510, 1, 121], "pos": "np", "rank": 0.0010020785794187142, "text": "multi dimensional java arrays"}
+{"count": 1, "ids": [529, 412, 37], "pos": "np", "rank": 0.0009987830698974332, "text": "const int version"}
+{"count": 1, "ids": [90], "pos": "np", "rank": 0.0009857332967544226, "text": "runtime"}
+{"count": 1, "ids": [72, 125, 622], "pos": "np", "rank": 0.0009818717940561126, "text": "class data implements"}
+{"count": 4, "ids": [402], "pos": "nnp", "rank": 0.0009814718963367182, "text": "blah"}
+{"count": 1, "ids": [94, 95, 96, 11], "pos": "np", "rank": 0.0009767319056883667, "text": "nonportable representation ofyour program"}
+{"count": 1, "ids": [235, 269], "pos": "np", "rank": 0.0009760838775075326, "text": "first button"}
+{"count": 1, "ids": [31, 294], "pos": "np", "rank": 0.0009631321262736882, "text": "system resources"}
+{"count": 3, "ids": [357, 209], "pos": "np", "rank": 0.0009575211813126191, "text": "param name"}
+{"count": 9, "ids": [261], "pos": "nnp", "rank": 0.0009574337563896493, "text": "init"}
+{"count": 1, "ids": [261, 213], "pos": "np", "rank": 0.0009574337563896493, "text": "init b"}
+{"count": 7, "ids": [88], "pos": "nnp", "rank": 0.0009573998904377094, "text": "byte"}
+{"count": 1, "ids": [546], "pos": "nnp", "rank": 0.0009562922672812041, "text": "false"}
+{"count": 2, "ids": [376, 162], "pos": "np", "rank": 0.0009528238400625521, "text": "same object"}
+{"count": 1, "ids": [620], "pos": "np", "rank": 0.0009508138616725549, "text": "objectsassignment"}
+{"count": 1, "ids": [453, 454, 269], "pos": "np", "rank": 0.0009498110765789177, "text": "calloc sizeof button"}
+{"count": 1, "ids": [27, 659, 277], "pos": "np", "rank": 0.0009464334523502326, "text": "garbage collector thread"}
+{"count": 1, "ids": [471, 544, 545], "pos": "np", "rank": 0.0009376348460476617, "text": "constant u00aeboolean literaltrue"}
+{"count": 1, "ids": [351], "pos": "np", "rank": 0.0009334027340478116, "text": "forms"}
+{"count": 1, "ids": [154, 539, 377], "pos": "np", "rank": 0.0009320954584720172, "text": "package objid e"}
+{"count": 1, "ids": [418, 1, 21], "pos": "np", "rank": 0.000931904857391766, "text": "typesthe java language"}
+{"count": 2, "ids": [601], "pos": "np", "rank": 0.0009318211081765425, "text": "labels"}
+{"count": 1, "ids": [65, 66], "pos": "np", "rank": 0.0009314150765739929, "text": "compiler implementor"}
+{"count": 9, "ids": [248], "pos": "vbn", "rank": 0.0009171539088348938, "text": "created"}
+{"count": 4, "ids": [439], "pos": "nn", "rank": 0.0009140117229218855, "text": "null"}
+{"count": 1, "ids": [435, 523], "pos": "np", "rank": 0.0009134486087547568, "text": "new employee"}
+{"count": 1, "ids": [684, 43], "pos": "np", "rank": 0.0009099033701684124, "text": "ill effects"}
+{"count": 5, "ids": [47], "pos": "nns", "rank": 0.0009042647519756496, "text": "libraries"}
+{"count": 1, "ids": [40, 41], "pos": "np", "rank": 0.000892896267474659, "text": "broad market"}
+{"count": 1, "ids": [52, 53], "pos": "np", "rank": 0.0008891575986292754, "text": "three features"}
+{"count": 1, "ids": [569], "pos": "np", "rank": 0.0008886545737709059, "text": "instanceof"}
+{"count": 1, "ids": [238, 300, 412, 37], "pos": "np", "rank": 0.0008878071732421628, "text": "static final int version"}
+{"count": 7, "ids": [28], "pos": "nn", "rank": 0.0008848728763679632, "text": "collection"}
+{"count": 2, "ids": [658, 27, 28], "pos": "np", "rank": 0.0008848728763679632, "text": "automatic garbage collection"}
+{"count": 1, "ids": [618, 162], "pos": "np", "rank": 0.0008795296985192789, "text": "copy objects"}
+{"count": 1, "ids": [488, 121], "pos": "np", "rank": 0.0008768187569913749, "text": "element array"}
+{"count": 4, "ids": [423], "pos": "nn", "rank": 0.0008684258592014392, "text": "bit"}
+{"count": 1, "ids": [425, 423, 426], "pos": "np", "rank": 0.0008684258592014392, "text": "bitsfloat32 bits ieee"}
+{"count": 1, "ids": [237, 269], "pos": "np", "rank": 0.000867630113340029, "text": "second button"}
+{"count": 1, "ids": [468], "pos": "nns", "rank": 0.0008647082316504425, "text": "literals"}
+{"count": 2, "ids": [398, 23], "pos": "np", "rank": 0.0008644335543778843, "text": "document comment"}
+{"count": 2, "ids": [694], "pos": "vbd", "rank": 0.0008633255442419506, "text": "mml"}
+{"count": 1, "ids": [374, 345, 353], "pos": "np", "rank": 0.0008614455329846858, "text": "standard output width"}
+{"count": 1, "ids": [446, 681], "pos": "np", "rank": 0.0008607106505534362, "text": "memory leaks"}
+{"count": 1, "ids": [72, 125], "pos": "np", "rank": 0.0008591378197990986, "text": "class data"}
+{"count": 1, "ids": [567, 511], "pos": "np", "rank": 0.0008527816040455063, "text": "tnew t"}
+{"count": 1, "ids": [210, 72, 337], "pos": "np", "rank": 0.0008465853397244232, "text": "public class trivialapplet"}
+{"count": 1, "ids": [141, 142], "pos": "np", "rank": 0.0008437411647653435, "text": "bad addresses"}
+{"count": 3, "ids": [1, 89], "pos": "np", "rank": 0.0008418354801097659, "text": "java code"}
+{"count": 2, "ids": [435, 432], "pos": "np", "rank": 0.0008405385164481045, "text": "new stack"}
+{"count": 1, "ids": [239], "pos": "np", "rank": 0.0008386734762167948, "text": "void"}
+{"count": 1, "ids": [11, 140], "pos": "np", "rank": 0.0008371987763043145, "text": "program execution"}
+{"count": 1, "ids": [238, 300, 527], "pos": "np", "rank": 0.0008224456616805469, "text": "static final keywords"}
+{"count": 1, "ids": [210, 162, 621], "pos": "np", "rank": 0.0008167061486250446, "text": "public object clone"}
+{"count": 1, "ids": [119, 57], "pos": "np", "rank": 0.0008123229070943519, "text": "pointer types"}
+{"count": 6, "ids": [442], "pos": "vbz", "rank": 0.0008089426240555512, "text": "points"}
+{"count": 1, "ids": [32, 33, 34], "pos": "np", "rank": 0.0008001481330199706, "text": "hardware environments portability"}
+{"count": 3, "ids": [403], "pos": "np", "rank": 0.0007949180235917001, "text": "nothing"}
+{"count": 6, "ids": [378], "pos": "nn", "rank": 0.0007931708790856482, "text": "style"}
+{"count": 1, "ids": [191, 130], "pos": "np", "rank": 0.0007812597986967009, "text": "aseparate file"}
+{"count": 2, "ids": [635, 269], "pos": "np", "rank": 0.0007808671020060261, "text": "bfoo button"}
+{"count": 4, "ids": [316], "pos": "nn", "rank": 0.0007803675712683493, "text": "extend"}
+{"count": 1, "ids": [103, 329], "pos": "np", "rank": 0.000780293541766729, "text": "browser attemptingto"}
+{"count": 1, "ids": [590, 412, 529, 565], "pos": "np", "rank": 0.0007796728527141976, "text": "stat1case int const expr"}
+{"count": 1, "ids": [513, 121, 488], "pos": "np", "rank": 0.000779394450659, "text": "undefined array element"}
+{"count": 1, "ids": [70, 568, 436], "pos": "np", "rank": 0.0007780517379565753, "text": "right shift operator"}
+{"count": 1, "ids": [435, 414], "pos": "np", "rank": 0.0007772757869261222, "text": "new reference"}
+{"count": 1, "ids": [319], "pos": "np", "rank": 0.0007772098661213235, "text": "things"}
+{"count": 1, "ids": [77, 358], "pos": "np", "rank": 0.0007757895372503896, "text": "thesame value"}
+{"count": 3, "ids": [303], "pos": "vbn", "rank": 0.0007754982287210106, "text": "freed"}
+{"count": 2, "ids": [15], "pos": "nn", "rank": 0.0007734435469974611, "text": "structure"}
+{"count": 2, "ids": [89], "pos": "np", "rank": 0.0007716825234339522, "text": "code"}
+{"count": 1, "ids": [7], "pos": "nns", "rank": 0.000768009918934872, "text": "basicstopics"}
+{"count": 1, "ids": [701], "pos": "nn", "rank": 0.000768009918934872, "text": "page"}
+{"count": 1, "ids": [300, 301], "pos": "np", "rank": 0.0007662298852530988, "text": "final clean"}
+{"count": 3, "ids": [233], "pos": "nnp", "rank": 0.0007656888059115963, "text": "trivialapplication"}
+{"count": 1, "ids": [633, 162], "pos": "np", "rank": 0.0007622590720500417, "text": "alljava objects"}
+{"count": 2, "ids": [477], "pos": "np", "rank": 0.0007585659830995502, "text": "s"}
+{"count": 4, "ids": [20], "pos": "vbp", "rank": 0.0007576631936314259, "text": "invoke"}
+{"count": 1, "ids": [221, 289], "pos": "np", "rank": 0.0007532579170510149, "text": "own painting"}
+{"count": 1, "ids": [1, 634, 438, 412, 616], "pos": "np", "rank": 0.0007523294394028384, "text": "java codeint foo int j"}
+{"count": 3, "ids": [346], "pos": "nnp", "rank": 0.0007484288742597543, "text": "html"}
+{"count": 1, "ids": [210, 72, 373], "pos": "np", "rank": 0.0007469870644627263, "text": "public class paramtest"}
+{"count": 1, "ids": [501, 501, 501, 501, 502], "pos": "np", "rank": 0.0007361649857583446, "text": "pointernull pointernull pointernull pointernull pointeryou"}
+{"count": 1, "ids": [235, 236], "pos": "np", "rank": 0.0007344367550217423, "text": "first argument"}
+{"count": 1, "ids": [11, 147], "pos": "np", "rank": 0.0007325489292662751, "text": "program structurea"}
+{"count": 1, "ids": [628, 144, 629], "pos": "np", "rank": 0.0007314695353950362, "text": "notnecessary method parameters"}
+{"count": 4, "ids": [370], "pos": "nn", "rank": 0.000727057760079036, "text": "getparameter"}
+{"count": 2, "ids": [441], "pos": "np", "rank": 0.0007256530512135843, "text": "space"}
+{"count": 3, "ids": [461], "pos": "nnp", "rank": 0.0007218776556339551, "text": "integer"}
+{"count": 1, "ids": [461, 484], "pos": "np", "rank": 0.0007218776556339551, "text": "integer parseint"}
+{"count": 4, "ids": [312], "pos": "nn", "rank": 0.0007210809805501414, "text": "import"}
+{"count": 1, "ids": [23], "pos": "np", "rank": 0.0007203612953149036, "text": "comments"}
+{"count": 1, "ids": [162, 200], "pos": "np", "rank": 0.0007146178800469141, "text": "object variables"}
+{"count": 4, "ids": [434], "pos": "vbn", "rank": 0.0007128552751933333, "text": "instantiated"}
+{"count": 1, "ids": [448, 1, 89], "pos": "np", "rank": 0.0007123223293236481, "text": "equivalent java code"}
+{"count": 1, "ids": [1, 581, 511], "pos": "np", "rank": 0.0007106513367045886, "text": "java codenew t"}
+{"count": 1, "ids": [112, 113], "pos": "np", "rank": 0.0007071283239069091, "text": "hard disks"}
+{"count": 1, "ids": [72, 402], "pos": "np", "rank": 0.000705487783103686, "text": "class blah"}
+{"count": 4, "ids": [63], "pos": "vbd", "rank": 0.000704737232592007, "text": "left"}
+{"count": 1, "ids": [173, 174], "pos": "np", "rank": 0.0007047329402390542, "text": "major differences"}
+{"count": 1, "ids": [488], "pos": "np", "rank": 0.0007031125041042745, "text": "elements"}
+{"count": 1, "ids": [183], "pos": "np", "rank": 0.000703087257196345, "text": "menus"}
+{"count": 1, "ids": [121, 488], "pos": "np", "rank": 0.0007014550055931, "text": "array element"}
+{"count": 1, "ids": [84], "pos": "np", "rank": 0.0006992470063012652, "text": "example"}
+{"count": 1, "ids": [377], "pos": "np", "rank": 0.0006990715938540128, "text": "e"}
+{"count": 4, "ids": [244], "pos": "vb", "rank": 0.000698184361832191, "text": "look"}
+{"count": 1, "ids": [229, 17], "pos": "np", "rank": 0.000697773987850034, "text": "trivial application"}
+{"count": 4, "ids": [348], "pos": "nn", "rank": 0.0006973460799513055, "text": "tag"}
+{"count": 1, "ids": [346, 350, 348], "pos": "np", "rank": 0.0006973460799513055, "text": "html img tag"}
+{"count": 4, "ids": [149], "pos": "vb", "rank": 0.0006970446426286944, "text": "consider"}
+{"count": 1, "ids": [534, 535], "pos": "np", "rank": 0.0006947283301012211, "text": "namelistqualified idinteger"}
+{"count": 1, "ids": [1, 599], "pos": "np", "rank": 0.0006931441117030218, "text": "java break"}
+{"count": 1, "ids": [213], "pos": "np", "rank": 0.0006926280272013456, "text": "b"}
+{"count": 1, "ids": [1, 25], "pos": "np", "rank": 0.0006922721797767404, "text": "java expressions"}
+{"count": 3, "ids": [288], "pos": "vbg", "rank": 0.0006840240442993302, "text": "handling"}
+{"count": 1, "ids": [400, 11], "pos": "np", "rank": 0.0006836256496766568, "text": "javadoc program"}
+{"count": 5, "ids": [37], "pos": "nn", "rank": 0.0006832129070681684, "text": "version"}
+{"count": 5, "ids": [256], "pos": "nn", "rank": 0.0006793577083999886, "text": "instance"}
+{"count": 1, "ids": [144, 644], "pos": "np", "rank": 0.000679221711438248, "text": "method calledequals"}
+{"count": 4, "ids": [529], "pos": "nn", "rank": 0.0006766769765966293, "text": "const"}
+{"count": 1, "ids": [521], "pos": "nnp", "rank": 0.0006746433968975188, "text": "true"}
+{"count": 1, "ids": [676], "pos": "np", "rank": 0.0006733904839156942, "text": "time"}
+{"count": 1, "ids": [580, 1, 26], "pos": "np", "rank": 0.0006730423970051643, "text": "proper java statement"}
+{"count": 1, "ids": [671, 162, 672], "pos": "np", "rank": 0.0006725815341618015, "text": "stale object one"}
+{"count": 4, "ids": [185], "pos": "vbn", "rank": 0.0006716298413057684, "text": "predefined"}
+{"count": 2, "ids": [427], "pos": "nn", "rank": 0.0006705919181562012, "text": "boolean"}
+{"count": 2, "ids": [691], "pos": "nn", "rank": 0.0006698471113546504, "text": "programming"}
+{"count": 2, "ids": [198], "pos": "nn", "rank": 0.0006692603970951945, "text": "list"}
+{"count": 1, "ids": [202, 203], "pos": "np", "rank": 0.0006668310605668452, "text": "link phase"}
+{"count": 2, "ids": [448], "pos": "nn", "rank": 0.0006663642121703727, "text": "equivalent"}
+{"count": 1, "ids": [219, 220], "pos": "np", "rank": 0.0006630873111217121, "text": "demand atruntime"}
+{"count": 3, "ids": [313], "pos": "nnp", "rank": 0.0006588873911241913, "text": "awt"}
+{"count": 1, "ids": [619], "pos": "np", "rank": 0.000657913552776959, "text": "assignments"}
+{"count": 2, "ids": [118], "pos": "nn", "rank": 0.0006551247390679105, "text": "level"}
+{"count": 1, "ids": [435, 653], "pos": "np", "rank": 0.0006524632919676834, "text": "new stacks"}
+{"count": 1, "ids": [269, 635, 269], "pos": "np", "rank": 0.0006507225850050218, "text": "button bfoo button"}
+{"count": 4, "ids": [190], "pos": "vbz", "rank": 0.0006498644024285916, "text": "places"}
+{"count": 1, "ids": [238, 300, 54, 530], "pos": "np", "rank": 0.0006490404927323548, "text": "static final string owner"}
+{"count": 1, "ids": [24], "pos": "np", "rank": 0.0006478888696314425, "text": "declaration"}
+{"count": 4, "ids": [369], "pos": "nn", "rank": 0.0006460028547466412, "text": "access"}
+{"count": 3, "ids": [317], "pos": "nnp", "rank": 0.0006454878285032274, "text": "graphics"}
+{"count": 2, "ids": [127], "pos": "vb", "rank": 0.0006427384314085797, "text": "apply"}
+{"count": 1, "ids": [128], "pos": "vb", "rank": 0.0006423475469645749, "text": "applets"}
+{"count": 1, "ids": [27, 659], "pos": "np", "rank": 0.0006351526001446569, "text": "garbage collector"}
+{"count": 1, "ids": [392, 393], "pos": "np", "rank": 0.0006344802115555461, "text": "interesting observation"}
+{"count": 1, "ids": [115], "pos": "np", "rank": 0.0006337117473175956, "text": "line"}
+{"count": 1, "ids": [469], "pos": "np", "rank": 0.0006300346765781423, "text": "realobjects"}
+{"count": 1, "ids": [183, 307], "pos": "np", "rank": 0.0006295275637588836, "text": "menu bar"}
+{"count": 1, "ids": [197], "pos": "np", "rank": 0.0006291338323358083, "text": "thedirectories"}
+{"count": 1, "ids": [427, 565, 598, 565], "pos": "np", "rank": 0.000623738282171358, "text": "boolean expr returnreturn expr"}
+{"count": 1, "ids": [685, 414], "pos": "np", "rank": 0.0006218206295408977, "text": "old reference"}
+{"count": 1, "ids": [1, 605], "pos": "np", "rank": 0.000621269904927844, "text": "java semanticswe"}
+{"count": 1, "ids": [211, 212], "pos": "np", "rank": 0.0006211634181516974, "text": "non publicclass"}
+{"count": 2, "ids": [548], "pos": "nn", "rank": 0.0006209241701004715, "text": "constant3"}
+{"count": 1, "ids": [549, 550, 548], "pos": "np", "rank": 0.0006209241701004715, "text": "f suffixdouble constant3"}
+{"count": 1, "ids": [404, 115, 23], "pos": "np", "rank": 0.0006174525388413459, "text": "multiple line comment"}
+{"count": 3, "ids": [328], "pos": "vbn", "rank": 0.0006173721583391149, "text": "ignored"}
+{"count": 3, "ids": [278], "pos": "nn", "rank": 0.000615987421874774, "text": "paint"}
+{"count": 1, "ids": [51], "pos": "np", "rank": 0.000615648128243501, "text": "platform"}
+{"count": 3, "ids": [654], "pos": "vbp", "rank": 0.0006121952633253494, "text": "push"}
+{"count": 1, "ids": [74], "pos": "np", "rank": 0.0006097944856648015, "text": "machine"}
+{"count": 1, "ids": [72, 511], "pos": "np", "rank": 0.0006091297171753617, "text": "class t"}
+{"count": 1, "ids": [435, 256], "pos": "np", "rank": 0.0006089657391698379, "text": "new instance"}
+{"count": 3, "ids": [194], "pos": "nn", "rank": 0.0006080533460756264, "text": "a"}
+{"count": 1, "ids": [454], "pos": "np", "rank": 0.0006079304982706913, "text": "sizeof"}
+{"count": 2, "ids": [637], "pos": "nns", "rank": 0.0006061001418874676, "text": "equals"}
+{"count": 1, "ids": [54, 468, 540], "pos": "np", "rank": 0.0006026804575371866, "text": "string literal jim"}
+{"count": 1, "ids": [186], "pos": "np", "rank": 0.0006023877983424329, "text": "lifecycle"}
+{"count": 1, "ids": [341], "pos": "np", "rank": 0.0006006620267308168, "text": "corner"}
+{"count": 1, "ids": [592, 593], "pos": "np", "rank": 0.0006002913314407924, "text": "stat3 forfor"}
+{"count": 1, "ids": [595, 596], "pos": "np", "rank": 0.0005943644105287298, "text": "statdo whiledo"}
+{"count": 1, "ids": [249, 250], "pos": "np", "rank": 0.0005918911950181085, "text": "scoped symbol"}
+{"count": 3, "ids": [354], "pos": "nn", "rank": 0.0005905864647957134, "text": "height"}
+{"count": 2, "ids": [123], "pos": "vbg", "rank": 0.0005886436751098674, "text": "checking"}
+{"count": 1, "ids": [697, 698], "pos": "np", "rank": 0.000588127975732047, "text": "edu modules"}
+{"count": 2, "ids": [424], "pos": "nnp", "rank": 0.0005844449894463634, "text": "unicode"}
+{"count": 1, "ids": [436], "pos": "np", "rank": 0.0005835388034674315, "text": "operators"}
+{"count": 2, "ids": [160], "pos": "nn", "rank": 0.0005833637900049772, "text": "state"}
+{"count": 2, "ids": [272], "pos": "nn", "rank": 0.0005833252512741367, "text": "inthis"}
+{"count": 1, "ids": [643], "pos": "np", "rank": 0.0005824899454997274, "text": "convention"}
+{"count": 2, "ids": [664], "pos": "nns", "rank": 0.0005820895456603755, "text": "errors"}
+{"count": 1, "ids": [453, 674], "pos": "np", "rank": 0.0005817446995986412, "text": "calloc malloc"}
+{"count": 4, "ids": [438], "pos": "nn", "rank": 0.0005799832237684633, "text": "foo"}
+{"count": 1, "ids": [310, 161], "pos": "np", "rank": 0.0005779733576642938, "text": "default behavior"}
+{"count": 1, "ids": [1, 607], "pos": "np", "rank": 0.0005768934831472837, "text": "java semantics"}
+{"count": 1, "ids": [259, 260], "pos": "np", "rank": 0.0005768566546713383, "text": "predefined lifecyclemethodsthe"}
+{"count": 1, "ids": [182], "pos": "np", "rank": 0.0005746376292612133, "text": "tosubclass"}
+{"count": 1, "ids": [542, 468], "pos": "np", "rank": 0.0005744413930744696, "text": "char literal"}
+{"count": 4, "ids": [273], "pos": "vbp", "rank": 0.000571175759191254, "text": "start"}
+{"count": 1, "ids": [199, 33], "pos": "np", "rank": 0.0005709763758601528, "text": "classpath environment"}
+{"count": 1, "ids": [210, 239], "pos": "np", "rank": 0.0005688007774589468, "text": "public void"}
+{"count": 3, "ids": [266], "pos": "vbn", "rank": 0.0005680541297451317, "text": "initialized"}
+{"count": 1, "ids": [576, 577], "pos": "np", "rank": 0.0005663325874401836, "text": "lowest priority"}
+{"count": 1, "ids": [489], "pos": "np", "rank": 0.0005656124622459369, "text": "index"}
+{"count": 1, "ids": [201], "pos": "np", "rank": 0.0005636845508731445, "text": "classthat"}
+{"count": 1, "ids": [410], "pos": "np", "rank": 0.0005628839022542772, "text": "typename"}
+{"count": 3, "ids": [603], "pos": "nn", "rank": 0.0005625540232314087, "text": "loop"}
+{"count": 1, "ids": [603, 677], "pos": "np", "rank": 0.0005625540232314087, "text": "loop body"}
+{"count": 1, "ids": [584, 585], "pos": "np", "rank": 0.000556857835208449, "text": "common statementsstatementexamplesifif"}
+{"count": 1, "ids": [1, 683], "pos": "np", "rank": 0.0005506710520951344, "text": "java methodcauses"}
+{"count": 2, "ids": [332], "pos": "vb", "rank": 0.0005496562562571404, "text": "display"}
+{"count": 3, "ids": [516], "pos": "vbn", "rank": 0.0005492218115853362, "text": "assigned"}
+{"count": 1, "ids": [559], "pos": "nn", "rank": 0.0005477167751142044, "text": "view"}
+{"count": 1, "ids": [646, 647], "pos": "np", "rank": 0.0005441366638001922, "text": "no pointers"}
+{"count": 1, "ids": [1, 437], "pos": "np", "rank": 0.0005384339176041314, "text": "java codevoid"}
+{"count": 3, "ids": [343], "pos": "nn", "rank": 0.0005376324990347605, "text": "test"}
+{"count": 2, "ids": [511], "pos": "np", "rank": 0.0005329885025284415, "text": "t"}
+{"count": 2, "ids": [411], "pos": "vbd", "rank": 0.0005329865178904391, "text": "variablename"}
+{"count": 3, "ids": [297], "pos": "nn", "rank": 0.0005329036848990985, "text": "destroy"}
+{"count": 1, "ids": [412, 200], "pos": "np", "rank": 0.0005326843039452977, "text": "int variables"}
+{"count": 1, "ids": [226, 330], "pos": "np", "rank": 0.0005326019854466215, "text": "simple appletthe"}
+{"count": 2, "ids": [151], "pos": "nn", "rank": 0.0005322796924093442, "text": "unit"}
+{"count": 3, "ids": [207], "pos": "nns", "rank": 0.0005259898943497142, "text": "shows"}
+{"count": 1, "ids": [648], "pos": "np", "rank": 0.0005238779888518475, "text": "javavariables"}
+{"count": 2, "ids": [514], "pos": "np", "rank": 0.0005233930033548433, "text": "exception"}
+{"count": 3, "ids": [305], "pos": "nn", "rank": 0.0005229979963658075, "text": "dispose"}
+{"count": 1, "ids": [678], "pos": "np", "rank": 0.000522102543215874, "text": "andt"}
+{"count": 4, "ids": [171], "pos": "nnp", "rank": 0.0005214707369783316, "text": "www"}
+{"count": 5, "ids": [472], "pos": "nn", "rank": 0.000519953283050065, "text": "length"}
+{"count": 2, "ids": [97], "pos": "vbz", "rank": 0.0005198642502503509, "text": "translates"}
+{"count": 1, "ids": [287], "pos": "np", "rank": 0.0005188532928308848, "text": "becausethey"}
+{"count": 1, "ids": [367], "pos": "nn", "rank": 0.0005139915056804593, "text": "vspace"}
+{"count": 2, "ids": [333, 334, 335], "pos": "np", "rank": 0.0005055603174948097, "text": "world wide web"}
+{"count": 1, "ids": [246], "pos": "np", "rank": 0.0005054353911867176, "text": "signature"}
+{"count": 2, "ids": [532], "pos": "nnp", "rank": 0.0005036671555380419, "text": "expressionsitemexamples"}
+{"count": 1, "ids": [382], "pos": "nn", "rank": 0.0005027680967553505, "text": "closing"}
+{"count": 1, "ids": [88, 462], "pos": "np", "rank": 0.0005027480069351198, "text": "byte float"}
+{"count": 2, "ids": [99], "pos": "vbn", "rank": 0.000501487851384258, "text": "interpreted"}
+{"count": 2, "ids": [158], "pos": "nn", "rank": 0.000501458705705971, "text": "member"}
+{"count": 1, "ids": [296], "pos": "np", "rank": 0.0004971854988293813, "text": "tobe"}
+{"count": 1, "ids": [218, 47], "pos": "np", "rank": 0.000493335277272992, "text": "loadable libraries"}
+{"count": 1, "ids": [366], "pos": "vb", "rank": 0.000493121779843501, "text": "align"}
+{"count": 1, "ids": [180], "pos": "np", "rank": 0.0004920620361713219, "text": "aplications"}
+{"count": 1, "ids": [359], "pos": "np", "rank": 0.0004889455088852793, "text": "p1"}
+{"count": 1, "ids": [78, 79, 80], "pos": "np", "rank": 0.00048420096603659203, "text": "window manager function"}
+{"count": 1, "ids": [651, 652], "pos": "np", "rank": 0.00048291146466683424, "text": "equivalentcode fragments"}
+{"count": 2, "ids": [294], "pos": "nns", "rank": 0.0004815660631368441, "text": "resources"}
+{"count": 1, "ids": [166, 167], "pos": "np", "rank": 0.000478961148408881, "text": "initial context"}
+{"count": 4, "ids": [209], "pos": "nn", "rank": 0.00047876059065630957, "text": "name"}
+{"count": 2, "ids": [381], "pos": "nn", "rank": 0.0004786491008010413, "text": "opening"}
+{"count": 1, "ids": [268], "pos": "np", "rank": 0.00047846964260061956, "text": "components"}
+{"count": 1, "ids": [561], "pos": "nnp", "rank": 0.0004775430799424111, "text": "descriptionjava"}
+{"count": 1, "ids": [284], "pos": "nn", "rank": 0.0004766642054058792, "text": "anything"}
+{"count": 1, "ids": [42], "pos": "nn", "rank": 0.0004751736290761452, "text": "internet"}
+{"count": 6, "ids": [453], "pos": "nn", "rank": 0.00047490553828945887, "text": "calloc"}
+{"count": 2, "ids": [360], "pos": "np", "rank": 0.0004742608477241109, "text": "p2"}
+{"count": 1, "ids": [511, 511], "pos": "np", "rank": 0.0004737675578030591, "text": "t t"}
+{"count": 2, "ids": [291], "pos": "vb", "rank": 0.0004737066146162325, "text": "suspend"}
+{"count": 18, "ids": [5], "pos": "np", "rank": 0.00047323064968941326, "text": "rights"}
+{"count": 4, "ids": [240], "pos": "nn", "rank": 0.0004708435737257779, "text": "println"}
+{"count": 2, "ids": [618], "pos": "nn", "rank": 0.0004705166233680039, "text": "copy"}
+{"count": 1, "ids": [302], "pos": "np", "rank": 0.0004703758882178119, "text": "operations"}
+{"count": 1, "ids": [545], "pos": "nn", "rank": 0.00046881742302383087, "text": "literaltrue"}
+{"count": 1, "ids": [365], "pos": "nns", "rank": 0.00046784729081176624, "text": "archives"}
+{"count": 4, "ids": [65], "pos": "nn", "rank": 0.00046570753828699646, "text": "compiler"}
+{"count": 2, "ids": [181], "pos": "nn", "rank": 0.00046279919979277706, "text": "need"}
+{"count": 2, "ids": [640], "pos": "nn", "rank": 0.0004597405531680388, "text": "comparison"}
+{"count": 1, "ids": [487], "pos": "nn", "rank": 0.00045819582293508043, "text": "number"}
+{"count": 1, "ids": [508], "pos": "np", "rank": 0.00045733414543343195, "text": "settitle"}
+{"count": 1, "ids": [11, 693], "pos": "np", "rank": 0.0004507993410869385, "text": "program complexity"}
+{"count": 2, "ids": [541], "pos": "vbn", "rank": 0.0004501607312346978, "text": "delimited"}
+{"count": 2, "ids": [380], "pos": "nn", "rank": 0.0004499934906422449, "text": "text"}
+{"count": 1, "ids": [361], "pos": "np", "rank": 0.0004497330957117508, "text": "user"}
+{"count": 1, "ids": [597], "pos": "nns", "rank": 0.00044795570890384425, "text": "stats"}
+{"count": 1, "ids": [41], "pos": "nn", "rank": 0.0004464481337373295, "text": "market"}
+{"count": 2, "ids": [53], "pos": "nns", "rank": 0.0004445787993146377, "text": "features"}
+{"count": 1, "ids": [136, 53], "pos": "np", "rank": 0.0004445787993146377, "text": "several features"}
+{"count": 1, "ids": [267], "pos": "np", "rank": 0.00043968836497809693, "text": "gui"}
+{"count": 1, "ids": [364], "pos": "nn", "rank": 0.00043783306110350333, "text": "alt"}
+{"count": 2, "ids": [457], "pos": "vbz", "rank": 0.0004364315185463485, "text": "causes"}
+{"count": 1, "ids": [206], "pos": "np", "rank": 0.00043635787009616635, "text": "diagram"}
+{"count": 1, "ids": [512], "pos": "np", "rank": 0.00043445131470502385, "text": "thisstatement"}
+{"count": 1, "ids": [90, 518, 519], "pos": "np", "rank": 0.00043262306393357966, "text": "runtime nullpointerexception initializersvariables"}
+{"count": 2, "ids": [271], "pos": "vbn", "rank": 0.0004309954346425541, "text": "added"}
+{"count": 2, "ids": [345], "pos": "nn", "rank": 0.0004307227664923429, "text": "output"}
+{"count": 3, "ids": [660], "pos": "vbn", "rank": 0.0004279120243318889, "text": "deallocated"}
+{"count": 1, "ids": [668], "pos": "np", "rank": 0.00042196997004576524, "text": "javaobject"}
+{"count": 3, "ids": [142], "pos": "nn", "rank": 0.00042187058238267174, "text": "address"}
+{"count": 1, "ids": [142, 120], "pos": "np", "rank": 0.00042187058238267174, "text": "address arithmetic"}
+{"count": 2, "ids": [352], "pos": "nnp", "rank": 0.0004190235841285488, "text": "appletname"}
+{"count": 2, "ids": [132], "pos": "nns", "rank": 0.00041799781225554237, "text": "sockets"}
+{"count": 2, "ids": [337], "pos": "nnp", "rank": 0.0004143124247652811, "text": "trivialapplet"}
+{"count": 6, "ids": [83], "pos": "vbn", "rank": 0.00041309074754711223, "text": "written"}
+{"count": 1, "ids": [200], "pos": "np", "rank": 0.0004126805156407305, "text": "variables"}
+{"count": 1, "ids": [673], "pos": "np", "rank": 0.0004125537639764357, "text": "functionthat"}
+{"count": 1, "ids": [416, 417], "pos": "np", "rank": 0.0004119647323995296, "text": "vector objectprimitive"}
+{"count": 2, "ids": [527], "pos": "nn", "rank": 0.00041122283084027347, "text": "keyword"}
+{"count": 1, "ids": [126], "pos": "nns", "rank": 0.000410278178193825, "text": "conversions"}
+{"count": 2, "ids": [465], "pos": "nn", "rank": 0.00040593850678156013, "text": "addition"}
+{"count": 1, "ids": [531], "pos": "nnp", "rank": 0.0004033023536082558, "text": "terence"}
+{"count": 1, "ids": [363], "pos": "nn", "rank": 0.00040141728032488467, "text": "parameterscodebase"}
+{"count": 2, "ids": [32], "pos": "nn", "rank": 0.0004000740665099853, "text": "hardware"}
+{"count": 1, "ids": [110, 32], "pos": "np", "rank": 0.0004000740665099853, "text": "harm hardware"}
+{"count": 1, "ids": [140], "pos": "nn", "rank": 0.00039747600748257534, "text": "execution"}
+{"count": 3, "ids": [659], "pos": "nn", "rank": 0.0003969128022204029, "text": "collector"}
+{"count": 2, "ids": [655], "pos": "nn", "rank": 0.0003954852399078321, "text": "dereference"}
+{"count": 2, "ids": [398], "pos": "nn", "rank": 0.00039476981402783527, "text": "document"}
+{"count": 1, "ids": [582, 26], "pos": "np", "rank": 0.00039420539988129405, "text": "statementsjava statements"}
+{"count": 2, "ids": [122], "pos": "nns", "rank": 0.0003913614606199123, "text": "bounds"}
+{"count": 3, "ids": [503], "pos": "vbn", "rank": 0.0003909558504445386, "text": "quit"}
+{"count": 1, "ids": [537], "pos": "nn", "rank": 0.0003904694768772205, "text": "obj"}
+{"count": 1, "ids": [309, 621], "pos": "np", "rank": 0.00038804348786219945, "text": "super clone"}
+{"count": 2, "ids": [175], "pos": "vb", "rank": 0.00038721363698046194, "text": "allow"}
+{"count": 2, "ids": [391], "pos": "vbg", "rank": 0.00038680964461658684, "text": "leading"}
+{"count": 1, "ids": [82], "pos": "np", "rank": 0.0003865333560056863, "text": "macapplication"}
+{"count": 3, "ids": [224], "pos": "vb", "rank": 0.0003861549980875485, "text": "reside"}
+{"count": 1, "ids": [300], "pos": "nn", "rank": 0.0003831149426265494, "text": "final"}
+{"count": 3, "ids": [480], "pos": "vb", "rank": 0.0003822350197673285, "text": "convert"}
+{"count": 2, "ids": [22], "pos": "nn", "rank": 0.000381963628908502, "text": "part"}
+{"count": 1, "ids": [700], "pos": "nns", "rank": 0.00038029324126816736, "text": "javabasics"}
+{"count": 2, "ids": [33], "pos": "nn", "rank": 0.0003790716113208532, "text": "environment"}
+{"count": 2, "ids": [131], "pos": "vbp", "rank": 0.0003788772146384861, "text": "o"}
+{"count": 1, "ids": [692], "pos": "nn", "rank": 0.0003780278563300135, "text": "effort"}
+{"count": 1, "ids": [289], "pos": "nn", "rank": 0.00037662895852550745, "text": "painting"}
+{"count": 1, "ids": [460], "pos": "nn", "rank": 0.00037439551513868016, "text": "problemsbecause"}
+{"count": 2, "ids": [357], "pos": "nn", "rank": 0.0003723822652084724, "text": "param"}
+{"count": 1, "ids": [247], "pos": "np", "rank": 0.0003689170583867705, "text": "javalanguage"}
+{"count": 2, "ids": [230], "pos": "vbz", "rank": 0.0003685042782094283, "text": "prints"}
+{"count": 4, "ids": [501], "pos": "nn", "rank": 0.0003680824928791723, "text": "pointernull"}
+{"count": 3, "ids": [437], "pos": "nn", "rank": 0.0003672709213129774, "text": "codevoid"}
+{"count": 1, "ids": [236], "pos": "np", "rank": 0.00036721837751087114, "text": "arguments"}
+{"count": 1, "ids": [342], "pos": "vbg", "rank": 0.0003667007466807, "text": "drawstring"}
+{"count": 2, "ids": [456], "pos": "vbg", "rank": 0.00036385937825877485, "text": "storing"}
+{"count": 1, "ids": [483], "pos": "nn", "rank": 0.0003630021397204557, "text": "valueof"}
+{"count": 1, "ids": [656], "pos": "np", "rank": 0.0003596389632228744, "text": "automaticallys"}
+{"count": 2, "ids": [120], "pos": "nn", "rank": 0.0003595049675881006, "text": "arithmetic"}
+{"count": 5, "ids": [70], "pos": "np", "rank": 0.0003593547737252402, "text": "rights"}
+{"count": 1, "ids": [164], "pos": "nns", "rank": 0.0003593154681003931, "text": "flavors"}
+{"count": 8, "ids": [71], "pos": "vbn", "rank": 0.0003581641010918421, "text": "reserved"}
+{"count": 2, "ids": [153], "pos": "nn", "rank": 0.000357557195836903, "text": "set"}
+{"count": 1, "ids": [607], "pos": "np", "rank": 0.00035555923180810415, "text": "semantics"}
+{"count": 1, "ids": [283], "pos": "vbn", "rank": 0.0003553778059234779, "text": "redrawn"}
+{"count": 23, "ids": [3, 4], "pos": "np", "rank": 0.0003547756106179698, "text": "jguru com"}
+{"count": 1, "ids": [113], "pos": "nns", "rank": 0.00035356416195345456, "text": "disks"}
+{"count": 1, "ids": [387, 388], "pos": "np", "rank": 0.00035341601046567954, "text": "useful combination"}
+{"count": 1, "ids": [174], "pos": "nns", "rank": 0.0003523664701195271, "text": "differences"}
+{"count": 1, "ids": [422], "pos": "nn", "rank": 0.0003520984930122497, "text": "bitschar16"}
+{"count": 1, "ids": [555], "pos": "nn", "rank": 0.00035167983424974256, "text": "lowercase"}
+{"count": 2, "ids": [389], "pos": "nns", "rank": 0.00035153815377615146, "text": "stylecomments"}
+{"count": 1, "ids": [279], "pos": "nns", "rank": 0.00035132919419498827, "text": "graphics"}
+{"count": 3, "ids": [635], "pos": "nn", "rank": 0.0003507782688406112, "text": "bfoo"}
+{"count": 1, "ids": [533], "pos": "nnp", "rank": 0.0003481529591246795, "text": "descriptionidi"}
+{"count": 1, "ids": [535], "pos": "nn", "rank": 0.00034736416505061057, "text": "idinteger"}
+{"count": 1, "ids": [536], "pos": "nnp", "rank": 0.00034691719655862124, "text": "max_value"}
+{"count": 2, "ids": [599], "pos": "nn", "rank": 0.0003465720558515109, "text": "break"}
+{"count": 1, "ids": [494], "pos": "nn", "rank": 0.0003458865835682299, "text": "0element"}
+{"count": 2, "ids": [311], "pos": "nns", "rank": 0.0003444008842224889, "text": "basics"}
+{"count": 1, "ids": [606], "pos": "vbp", "rank": 0.0003430923605313944, "text": "say"}
+{"count": 1, "ids": [39], "pos": "vb", "rank": 0.0003421031782507271, "text": "serve"}
+{"count": 1, "ids": [400], "pos": "nn", "rank": 0.0003418128248383284, "text": "javadoc"}
+{"count": 1, "ids": [152], "pos": "nn", "rank": 0.0003409447891428946, "text": "acompilation"}
+{"count": 1, "ids": [242], "pos": "vbz", "rank": 0.0003389470230715391, "text": "tells"}
+{"count": 1, "ids": [324], "pos": "np", "rank": 0.00033628951756633927, "text": "ifyou"}
+{"count": 1, "ids": [251], "pos": "nnp", "rank": 0.0003358453861977863, "text": "startingclassname"}
+{"count": 1, "ids": [650], "pos": "np", "rank": 0.00033393880101867683, "text": "thedifference"}
+{"count": 1, "ids": [202], "pos": "np", "rank": 0.0003334155302834226, "text": "linking"}
+{"count": 1, "ids": [292], "pos": "nnp", "rank": 0.00033242635324984044, "text": "otherjava"}
+{"count": 1, "ids": [220], "pos": "nn", "rank": 0.00033154365556085604, "text": "atruntime"}
+{"count": 1, "ids": [497, 498], "pos": "np", "rank": 0.00033039442017710006, "text": "square brackets"}
+{"count": 1, "ids": [486], "pos": "vbp", "rank": 0.0003294862542356156, "text": "thatknow"}
+{"count": 2, "ids": [523], "pos": "nn", "rank": 0.0003261469034462183, "text": "employee"}
+{"count": 1, "ids": [384], "pos": "vbz", "rank": 0.0003259489616431013, "text": "commentswhere"}
+{"count": 1, "ids": [564], "pos": "nn", "rank": 0.00032551160103221305, "text": "callclass"}
+{"count": 1, "ids": [371], "pos": "nn", "rank": 0.0003244966558631166, "text": "p"}
+{"count": 1, "ids": [573], "pos": "vbn", "rank": 0.0003244119534446404, "text": "ishandled"}
+{"count": 1, "ids": [401], "pos": "nn", "rank": 0.000321547398490429, "text": "generatedocumentation"}
+{"count": 2, "ids": [500], "pos": "nnp", "rank": 0.0003210844194629913, "text": "buttonsbutton"}
+{"count": 1, "ids": [30], "pos": "vbg", "rank": 0.00031882384638442796, "text": "operating"}
+{"count": 1, "ids": [98], "pos": "nn", "rank": 0.0003175687767388187, "text": "independentbyte"}
+{"count": 1, "ids": [393], "pos": "nn", "rank": 0.00031724010577777303, "text": "observation"}
+{"count": 1, "ids": [52], "pos": "nnp", "rank": 0.0003168875739207757, "text": "three"}
+{"count": 2, "ids": [58], "pos": "nn", "rank": 0.00031678086270097783, "text": "size"}
+{"count": 1, "ids": [630], "pos": "nnp", "rank": 0.00031666452582520676, "text": "valuesarguments"}
+{"count": 1, "ids": [139], "pos": "vbg", "rank": 0.00031646463416894915, "text": "crashesduring"}
+{"count": 1, "ids": [629], "pos": "nnp", "rank": 0.00031594256964986666, "text": "parameters"}
+{"count": 1, "ids": [137], "pos": "vbn", "rank": 0.0003150850826562356, "text": "designed"}
+{"count": 1, "ids": [157], "pos": "vbn", "rank": 0.000315081505412397, "text": "related"}
+{"count": 1, "ids": [459], "pos": "nn", "rank": 0.0003148031157843681, "text": "leakage"}
+{"count": 1, "ids": [307], "pos": "nn", "rank": 0.0003147637818794418, "text": "bar"}
+{"count": 2, "ids": [481], "pos": "vbg", "rank": 0.000314187655932727, "text": "string"}
+{"count": 1, "ids": [538], "pos": "nn", "rank": 0.0003132168701119398, "text": "npackage"}
+{"count": 1, "ids": [212], "pos": "nn", "rank": 0.0003105817090758487, "text": "publicclass"}
+{"count": 1, "ids": [163], "pos": "vbp", "rank": 0.00030973106697746876, "text": "come"}
+{"count": 2, "ids": [298], "pos": "vbn", "rank": 0.0003082404699886862, "text": "terminated"}
+{"count": 2, "ids": [325], "pos": "vbp", "rank": 0.00030699769278565137, "text": "don"}
+{"count": 1, "ids": [689], "pos": "nnp", "rank": 0.0003062976280089719, "text": "put"}
+{"count": 2, "ids": [154], "pos": "nn", "rank": 0.0003059392874953561, "text": "package"}
+{"count": 1, "ids": [699], "pos": "nnps", "rank": 0.0003055471478435294, "text": "javabasics"}
+{"count": 1, "ids": [138], "pos": "vb", "rank": 0.0003054641410014631, "text": "avoid"}
+{"count": 1, "ids": [254], "pos": "vbz", "rank": 0.00030416957856316533, "text": "orin"}
+{"count": 3, "ids": [104], "pos": "vbz", "rank": 0.00030363310055744457, "text": "runs"}
+{"count": 1, "ids": [59], "pos": "nns", "rank": 0.00030255757006701834, "text": "andformats"}
+{"count": 1, "ids": [665], "pos": "nnp", "rank": 0.0003017039750675501, "text": "pronejava"}
+{"count": 2, "ids": [150], "pos": "nn", "rank": 0.000301630229312087, "text": "compilation"}
+{"count": 1, "ids": [211], "pos": "nn", "rank": 0.0003012503512309931, "text": "non"}
+{"count": 1, "ids": [593], "pos": "nn", "rank": 0.0003001456657203962, "text": "forfor"}
+{"count": 1, "ids": [596], "pos": "nn", "rank": 0.0002971822052643649, "text": "whiledo"}
+{"count": 2, "ids": [600], "pos": "vb", "rank": 0.00029632776215740764, "text": "continue"}
+{"count": 1, "ids": [250], "pos": "nn", "rank": 0.00029594559750905426, "text": "symbol"}
+{"count": 1, "ids": [558], "pos": "nn", "rank": 0.00029588758219872537, "text": "superclass"}
+{"count": 1, "ids": [26], "pos": "np", "rank": 0.0002956540499109705, "text": "statements"}
+{"count": 1, "ids": [583], "pos": "np", "rank": 0.0002946707318797026, "text": "table"}
+{"count": 1, "ids": [698], "pos": "nns", "rank": 0.0002940639878660235, "text": "modules"}
+{"count": 1, "ids": [614], "pos": "vbn", "rank": 0.00029113465252801423, "text": "compared"}
+{"count": 1, "ids": [674], "pos": "nn", "rank": 0.0002908723497993206, "text": "malloc"}
+{"count": 1, "ids": [184], "pos": "vb", "rank": 0.00029081522857031907, "text": "respond"}
+{"count": 1, "ids": [571], "pos": "vbn", "rank": 0.00028963476177352044, "text": "removed"}
+{"count": 1, "ids": [38], "pos": "nn", "rank": 0.0002895381046836168, "text": "software"}
+{"count": 1, "ids": [102], "pos": "nnp", "rank": 0.0002895381046836168, "text": "netscapenavigator"}
+{"count": 1, "ids": [399], "pos": "vbn", "rank": 0.00028928906060794984, "text": "processed"}
+{"count": 2, "ids": [161], "pos": "nn", "rank": 0.0002889866788321469, "text": "behavior"}
+{"count": 1, "ids": [322], "pos": "vb", "rank": 0.00028877395475943653, "text": "bring"}
+{"count": 1, "ids": [260], "pos": "nnp", "rank": 0.0002884283273356692, "text": "lifecyclemethodsthe"}
+{"count": 1, "ids": [373], "pos": "nnp", "rank": 0.00028787439072297625, "text": "paramtest"}
+{"count": 1, "ids": [542], "pos": "nn", "rank": 0.0002872206965372348, "text": "char"}
+{"count": 1, "ids": [199], "pos": "nnp", "rank": 0.0002854881879300764, "text": "classpath"}
+{"count": 1, "ids": [426], "pos": "nnp", "rank": 0.00028424085703017974, "text": "ieee"}
+{"count": 1, "ids": [344], "pos": "nnp", "rank": 0.0002842156604298986, "text": "forexample"}
+{"count": 2, "ids": [36], "pos": "vbp", "rank": 0.00028409348892696783, "text": "need"}
+{"count": 1, "ids": [577], "pos": "nn", "rank": 0.0002831662937200918, "text": "priority"}
+{"count": 1, "ids": [187], "pos": "nnp", "rank": 0.0002809959462202331, "text": "executionthe"}
+{"count": 1, "ids": [282], "pos": "nn", "rank": 0.0002799736779182805, "text": "needsto"}
+{"count": 1, "ids": [657], "pos": "nnp", "rank": 0.0002798212851585899, "text": "collectionan"}
+{"count": 1, "ids": [585], "pos": "nnp", "rank": 0.0002784289176042245, "text": "statementsstatementexamplesifif"}
+{"count": 1, "ids": [641], "pos": "vb", "rank": 0.0002780815698102918, "text": "perform"}
+{"count": 1, "ids": [589], "pos": "nn", "rank": 0.000276860893423586, "text": "case"}
+{"count": 1, "ids": [421], "pos": "nn", "rank": 0.00027448880958794766, "text": "falsebyte8"}
+{"count": 2, "ids": [613], "pos": "nn", "rank": 0.00027433092364131955, "text": "way"}
+{"count": 1, "ids": [584], "pos": "nnp", "rank": 0.00027381126544831475, "text": "common"}
+{"count": 1, "ids": [133], "pos": "nn", "rank": 0.0002735326461087637, "text": "host"}
+{"count": 1, "ids": [611], "pos": "nnp", "rank": 0.0002733321864349408, "text": "injava"}
+{"count": 1, "ids": [443, 444], "pos": "np", "rank": 0.000273270737068641, "text": "accompanying figure"}
+{"count": 2, "ids": [169], "pos": "vbg", "rank": 0.00027309458684611997, "text": "existing"}
+{"count": 1, "ids": [690], "pos": "vbz", "rank": 0.00027239287366104026, "text": "reduces"}
+{"count": 1, "ids": [464], "pos": "vbn", "rank": 0.0002723664406860912, "text": "provided"}
+{"count": 1, "ids": [647], "pos": "nnp", "rank": 0.0002720683319000961, "text": "pointers"}
+{"count": 1, "ids": [625], "pos": "vbz", "rank": 0.00027193107760204534, "text": "requires"}
+{"count": 1, "ids": [34], "pos": "nnp", "rank": 0.0002713048723926119, "text": "portability"}
+{"count": 1, "ids": [554], "pos": "nns", "rank": 0.00027088475328427615, "text": "constant077nullthe"}
+{"count": 1, "ids": [159], "pos": "vb", "rank": 0.0002699974866103842, "text": "thatspecify"}
+{"count": 1, "ids": [590], "pos": "nn", "rank": 0.0002697917360608112, "text": "stat1case"}
+{"count": 1, "ids": [591], "pos": "nn", "rank": 0.0002697917360608112, "text": "stat2default"}
+{"count": 1, "ids": [578], "pos": "nn", "rank": 0.0002693505857853025, "text": "precedence"}
+{"count": 1, "ids": [686], "pos": "vbd", "rank": 0.0002693505857853025, "text": "isn"}
+{"count": 1, "ids": [340], "pos": "nn", "rank": 0.0002659127077465684, "text": "left"}
+{"count": 1, "ids": [644], "pos": "nns", "rank": 0.0002631291286138986, "text": "calledequals"}
+{"count": 2, "ids": [634], "pos": "nn", "rank": 0.0002624301660423342, "text": "codeint"}
+{"count": 1, "ids": [528], "pos": "nn", "rank": 0.00026222369711826477, "text": "tothe"}
+{"count": 2, "ids": [475], "pos": "vb", "rank": 0.00026191999093691976, "text": "concatenate"}
+{"count": 1, "ids": [482], "pos": "vbn", "rank": 0.00026191999093691976, "text": "obtained"}
+{"count": 1, "ids": [672], "pos": "nn", "rank": 0.00026166747935324355, "text": "one"}
+{"count": 2, "ids": [409], "pos": "nn", "rank": 0.0002615482499591003, "text": "syntax"}
+{"count": 1, "ids": [543], "pos": "nn", "rank": 0.00026149067525365016, "text": "character"}
+{"count": 1, "ids": [225], "pos": "nns", "rank": 0.00026002966300942357, "text": "othermachines"}
+{"count": 1, "ids": [420], "pos": "nnp", "rank": 0.00025975690410630294, "text": "typedescriptionbooleantrue"}
+{"count": 2, "ids": [263], "pos": "nn", "rank": 0.0002596041228013192, "text": "constructor"}
+{"count": 1, "ids": [530], "pos": "nnp", "rank": 0.0002587459297700877, "text": "owner"}
+{"count": 1, "ids": [540], "pos": "nnp", "rank": 0.0002568349965171972, "text": "jim"}
+{"count": 1, "ids": [567], "pos": "nn", "rank": 0.00025428559064177977, "text": "tnew"}
+{"count": 1, "ids": [547], "pos": "nn", "rank": 0.0002538245686146369, "text": "constant4float"}
+{"count": 1, "ids": [145], "pos": "nns", "rank": 0.00025288823291742634, "text": "interfaces"}
+{"count": 2, "ids": [335], "pos": "nn", "rank": 0.00025278015874740485, "text": "web"}
+{"count": 1, "ids": [227], "pos": "nnp", "rank": 0.00025168355178026015, "text": "applicationconsider"}
+{"count": 1, "ids": [462], "pos": "nnp", "rank": 0.0002513740034675599, "text": "float"}
+{"count": 2, "ids": [649], "pos": "vb", "rank": 0.0002509336782551692, "text": "illustrate"}
+{"count": 1, "ids": [492], "pos": "nnp", "rank": 0.00025090765194014773, "text": "elementsjava"}
+{"count": 1, "ids": [170], "pos": "nn", "rank": 0.0002507658602358142, "text": "mainwindow"}
+{"count": 1, "ids": [524], "pos": "nn", "rank": 0.0002507600722413467, "text": "arraysint"}
+{"count": 1, "ids": [697], "pos": "nn", "rank": 0.0002502641955985398, "text": "edu"}
+{"count": 1, "ids": [91], "pos": "vb", "rank": 0.00024988313735135187, "text": "compile"}
+{"count": 1, "ids": [347], "pos": "nnp", "rank": 0.00024952382681758155, "text": "interfacethe"}
+{"count": 1, "ids": [165], "pos": "nnp", "rank": 0.0002487235032327243, "text": "standalone"}
+{"count": 1, "ids": [677], "pos": "nn", "rank": 0.0002486875076209969, "text": "body"}
+{"count": 1, "ids": [135], "pos": "nnp", "rank": 0.0002480458444481641, "text": "methodsrobustnessthe"}
+{"count": 1, "ids": [646], "pos": "nn", "rank": 0.0002460935826726292, "text": "no"}
+{"count": 1, "ids": [688], "pos": "nns", "rank": 0.0002459929728269751, "text": "notices"}
+{"count": 1, "ids": [64], "pos": "nns", "rank": 0.00024566099254425276, "text": "details"}
+{"count": 1, "ids": [327], "pos": "nn", "rank": 0.00024566099254425276, "text": "themout"}
+{"count": 1, "ids": [243], "pos": "vb", "rank": 0.00024552550706360423, "text": "beginwith"}
+{"count": 1, "ids": [116], "pos": "nn", "rank": 0.00024477562307868394, "text": "defense"}
+{"count": 1, "ids": [265], "pos": "nn", "rank": 0.00024408882302754406, "text": "creation"}
+{"count": 1, "ids": [534], "pos": "vbn", "rank": 0.00024378825114417164, "text": "namelistqualified"}
+{"count": 1, "ids": [452], "pos": "nn", "rank": 0.0002434193911020973, "text": "pointerb"}
+{"count": 1, "ids": [78], "pos": "nn", "rank": 0.00024210048301829602, "text": "window"}
+{"count": 1, "ids": [314], "pos": "nn", "rank": 0.00024206260172943418, "text": "definitionsimport"}
+{"count": 1, "ids": [652], "pos": "nns", "rank": 0.00024145573233341712, "text": "fragments"}
+{"count": 1, "ids": [515], "pos": "nn", "rank": 0.00024081253304586154, "text": "calledarrayindexoutofboundsexception"}
+{"count": 2, "ids": [25], "pos": "nns", "rank": 0.00024077705563100963, "text": "expressions"}
+{"count": 1, "ids": [167], "pos": "nn", "rank": 0.0002394805742044405, "text": "context"}
+{"count": 1, "ids": [615], "pos": "nnp", "rank": 0.0002389869031497075, "text": "copyjava"}
+{"count": 1, "ids": [431], "pos": "nn", "rank": 0.00023777314303394598, "text": "allocatesmemory"}
+{"count": 1, "ids": [252], "pos": "nnp", "rank": 0.0002373074279031534, "text": "executionan"}
+{"count": 1, "ids": [430], "pos": "nn", "rank": 0.00023715369627246274, "text": "struct"}
+{"count": 1, "ids": [68], "pos": "nnp", "rank": 0.0002351998417408533, "text": "thereforejava"}
+{"count": 1, "ids": [204], "pos": "nnp", "rank": 0.00023472157915528928, "text": "atjava"}
+{"count": 1, "ids": [320], "pos": "vb", "rank": 0.00023472157915528928, "text": "fill"}
+{"count": 1, "ids": [208], "pos": "nn", "rank": 0.00023445158595341572, "text": "executionsequence"}
+{"count": 1, "ids": [286], "pos": "nnp", "rank": 0.00023405306644074027, "text": "bitmaps"}
+{"count": 1, "ids": [147], "pos": "nnp", "rank": 0.0002338443623836232, "text": "structurea"}
+{"count": 1, "ids": [586], "pos": "nn", "rank": 0.00023351546502963278, "text": "stat1if"}
+{"count": 1, "ids": [587], "pos": "nn", "rank": 0.00023351546502963278, "text": "stat1"}
+{"count": 1, "ids": [595], "pos": "nn", "rank": 0.00023351546502963278, "text": "statdo"}
+{"count": 1, "ids": [598], "pos": "nn", "rank": 0.00023351546502963278, "text": "returnreturn"}
+{"count": 2, "ids": [77], "pos": "vbn", "rank": 0.00023312985159293663, "text": "thesame"}
+{"count": 1, "ids": [419], "pos": "nnp", "rank": 0.00023282824337896675, "text": "typesprimitive"}
+{"count": 1, "ids": [622], "pos": "nns", "rank": 0.0002327803561421077, "text": "implements"}
+{"count": 2, "ids": [681], "pos": "nns", "rank": 0.00022987989216933494, "text": "leaks"}
+{"count": 1, "ids": [55], "pos": "vbn", "rank": 0.0002289699049372842, "text": "specified"}
+{"count": 1, "ids": [96], "pos": "nn", "rank": 0.00022836753279331486, "text": "ofyour"}
+{"count": 1, "ids": [605], "pos": "nnp", "rank": 0.00022823933441978644, "text": "semanticswe"}
+{"count": 1, "ids": [168], "pos": "nn", "rank": 0.00022781763066640422, "text": "pre"}
+{"count": 1, "ids": [304], "pos": "nns", "rank": 0.000227719025713504, "text": "systemresources"}
+{"count": 1, "ids": [687], "pos": "vbz", "rank": 0.000227719025713504, "text": "remains"}
+{"count": 1, "ids": [581], "pos": "nn", "rank": 0.00022755888140727536, "text": "codenew"}
+{"count": 1, "ids": [172], "pos": "nnp", "rank": 0.00022541206831096805, "text": "programmingthe"}
+{"count": 1, "ids": [539], "pos": "nn", "rank": 0.00022429307488544022, "text": "objid"}
+{"count": 1, "ids": [397], "pos": "nn", "rank": 0.00022413101881044552, "text": "commentary"}
+{"count": 1, "ids": [429], "pos": "nnp", "rank": 0.00022388234429483508, "text": "objectsa"}
+{"count": 1, "ids": [203], "pos": "nn", "rank": 0.00022169548475417628, "text": "phase"}
+{"count": 1, "ids": [219], "pos": "nn", "rank": 0.00022169548475417628, "text": "demand"}
+{"count": 1, "ids": [651], "pos": "nn", "rank": 0.00022140671384466293, "text": "equivalentcode"}
+{"count": 1, "ids": [156], "pos": "nn", "rank": 0.0002210261087093528, "text": "togroup"}
+{"count": 1, "ids": [675], "pos": "nn", "rank": 0.00022093250269201116, "text": "ack"}
+{"count": 1, "ids": [196], "pos": "vbz", "rank": 0.00022070799832018886, "text": "searches"}
+{"count": 1, "ids": [281], "pos": "nn", "rank": 0.00021813215901698646, "text": "area"}
+{"count": 1, "ids": [519], "pos": "nnp", "rank": 0.00021631153196678983, "text": "initializersvariables"}
+{"count": 1, "ids": [379], "pos": "nn", "rank": 0.00021609610755930165, "text": "block"}
+{"count": 2, "ids": [451], "pos": "vb", "rank": 0.00021529145181013783, "text": "declare"}
+{"count": 1, "ids": [315], "pos": "nnp", "rank": 0.00021379971481465495, "text": "applettemplate"}
+{"count": 1, "ids": [517], "pos": "nn", "rank": 0.00021255605023254634, "text": "objectresults"}
+{"count": 1, "ids": [667], "pos": "nn", "rank": 0.00021248804827810486, "text": "lack"}
+{"count": 1, "ids": [29], "pos": "nnp", "rank": 0.00021160940765816477, "text": "semanticsportabilityjava"}
+{"count": 1, "ids": [553], "pos": "nn", "rank": 0.00021111629919559353, "text": "constant0x123octal"}
+{"count": 1, "ids": [507], "pos": "vb", "rank": 0.00021098498502288262, "text": "structs"}
+{"count": 1, "ids": [395], "pos": "vb", "rank": 0.00021071045831248198, "text": "try"}
+{"count": 1, "ids": [592], "pos": "nn", "rank": 0.00021060210747054922, "text": "stat3"}
+{"count": 1, "ids": [80], "pos": "nn", "rank": 0.0002102688716298438, "text": "function"}
+{"count": 1, "ids": [562], "pos": "np", "rank": 0.0002085986475898862, "text": "idi"}
+{"count": 1, "ids": [505], "pos": "nn", "rank": 0.0002071652385303339, "text": "buttonsa"}
+{"count": 1, "ids": [75], "pos": "nnp", "rank": 0.0002070494661809795, "text": "javaruntime"}
+{"count": 1, "ids": [329], "pos": "nn", "rank": 0.0002064934166768462, "text": "attemptingto"}
+{"count": 1, "ids": [330], "pos": "nnp", "rank": 0.00020624440650922265, "text": "appletthe"}
+{"count": 1, "ids": [416], "pos": "nnp", "rank": 0.0002059823661997648, "text": "vector"}
+{"count": 1, "ids": [631], "pos": "vb", "rank": 0.0002057515108408934, "text": "fromall"}
+{"count": 1, "ids": [470], "pos": "vbd", "rank": 0.00020554911889027614, "text": "asnew"}
+{"count": 1, "ids": [95], "pos": "nn", "rank": 0.0002051093309541552, "text": "representation"}
+{"count": 1, "ids": [146], "pos": "nnp", "rank": 0.00020334054782185883, "text": "exceptionsjava"}
+{"count": 1, "ids": [50], "pos": "nn", "rank": 0.00020159185824867275, "text": "computer"}
+{"count": 1, "ids": [683], "pos": "nns", "rank": 0.00020043271329200262, "text": "methodcauses"}
+{"count": 1, "ids": [117], "pos": "nn", "rank": 0.0001999944573115647, "text": "interpreter"}
+{"count": 1, "ids": [418], "pos": "nnp", "rank": 0.00019794199335733897, "text": "typesthe"}
+{"count": 1, "ids": [413], "pos": "nn", "rank": 0.00019577930837872255, "text": "integerint"}
+{"count": 1, "ids": [506], "pos": "nn", "rank": 0.00019575232134585167, "text": "task"}
+{"count": 1, "ids": [696], "pos": "nn", "rank": 0.00019498231468961116, "text": "src"}
+{"count": 1, "ids": [134], "pos": "vb", "rank": 0.00019326667800284315, "text": "native"}
+{"count": 1, "ids": [525], "pos": "np", "rank": 0.0001917658635193122, "text": "constantsvariables"}
+{"count": 1, "ids": [695], "pos": "np", "rank": 0.0001917658635193122, "text": "depot"}
+{"count": 1, "ids": [638], "pos": "np", "rank": 0.0001917658635193122, "text": "ifthey"}
+{"count": 1, "ids": [604], "pos": "vbn", "rank": 0.00019146756526292, "text": "bepreceded"}
+{"count": 1, "ids": [192], "pos": "vb", "rank": 0.00018962309225118657, "text": "find"}
+{"count": 1, "ids": [502], "pos": "nn", "rank": 0.00018950015613925503, "text": "pointeryou"}
+{"count": 1, "ids": [493], "pos": "nn", "rank": 0.00018914824192566089, "text": "typeelement"}
+{"count": 1, "ids": [79], "pos": "nn", "rank": 0.0001883595044439051, "text": "manager"}
+{"count": 1, "ids": [405], "pos": "nn", "rank": 0.000187957191721284, "text": "documentation"}
+{"count": 1, "ids": [520], "pos": "nn", "rank": 0.00018637577092819478, "text": "typesint"}
+{"count": 1, "ids": [245], "pos": "nn", "rank": 0.00018445852919338524, "text": "amethod"}
+{"count": 1, "ids": [473], "pos": "nn", "rank": 0.0001842586433698992, "text": "content"}
+{"count": 1, "ids": [484], "pos": "nnp", "rank": 0.00018350851861190874, "text": "parseint"}
+{"count": 1, "ids": [394], "pos": "nn", "rank": 0.00018337858203578114, "text": "surroundingit"}
+{"count": 1, "ids": [568], "pos": "nn", "rank": 0.0001823534688268694, "text": "shift"}
+{"count": 1, "ids": [491], "pos": "nnp", "rank": 0.00018199273899113225, "text": "generic"}
+{"count": 1, "ids": [44], "pos": "vbz", "rank": 0.00018183394248513616, "text": "becomes"}
+{"count": 1, "ids": [214], "pos": "vbn", "rank": 0.00018183394248513616, "text": "distributed"}
+{"count": 1, "ids": [270], "pos": "nns", "rank": 0.0001808480441199745, "text": "scrollbars"}
+{"count": 1, "ids": [509], "pos": "nnp", "rank": 0.00017882971746403315, "text": "multi"}
+{"count": 1, "ids": [466], "pos": "nn", "rank": 0.00017821218022409622, "text": "efficiency"}
+{"count": 23, "ids": [4], "pos": "nn", "rank": 0.0001773878053089849, "text": "com"}
+{"count": 1, "ids": [217], "pos": "nns", "rank": 0.0001773878053089849, "text": "dlls"}
+{"count": 1, "ids": [526], "pos": "vbn", "rank": 0.0001773878053089849, "text": "modified"}
+{"count": 1, "ids": [617], "pos": "vbz", "rank": 0.00017684011018148153, "text": "jperforms"}
+{"count": 1, "ids": [110], "pos": "vb", "rank": 0.0001764114875090254, "text": "harm"}
+{"count": 1, "ids": [662], "pos": "vbg", "rank": 0.00017625832569248675, "text": "relieving"}
+{"count": 1, "ids": [693], "pos": "nn", "rank": 0.00017625832569248675, "text": "complexity"}
+{"count": 1, "ids": [350], "pos": "nn", "rank": 0.00017544915090926026, "text": "img"}
+{"count": 1, "ids": [449], "pos": "nn", "rank": 0.00017537152128717473, "text": "heapwould"}
+{"count": 1, "ids": [495], "pos": "nn", "rank": 0.00017537152128717473, "text": "arrayobject"}
+{"count": 1, "ids": [572], "pos": "nn", "rank": 0.00017537152128717473, "text": "allocation"}
+{"count": 1, "ids": [666], "pos": "nn", "rank": 0.00017537152128717473, "text": "consequence"}
+{"count": 1, "ids": [35], "pos": "nn", "rank": 0.000174461534055124, "text": "advantage"}
+{"count": 1, "ids": [48], "pos": "vbn", "rank": 0.000174461534055124, "text": "limited"}
+{"count": 1, "ids": [179], "pos": "nn", "rank": 0.000174461534055124, "text": "subclass"}
+{"count": 1, "ids": [264], "pos": "nn", "rank": 0.000174461534055124, "text": "calledonce"}
+{"count": 1, "ids": [295], "pos": "vbn", "rank": 0.000174461534055124, "text": "guaranteed"}
+{"count": 1, "ids": [390], "pos": "vbn", "rank": 0.000174461534055124, "text": "nested"}
+{"count": 1, "ids": [428], "pos": "vbn", "rank": 0.000174461534055124, "text": "signed"}
+{"count": 1, "ids": [570], "pos": "nn", "rank": 0.000174461534055124, "text": "notpresent"}
+{"count": 1, "ids": [612], "pos": "vbn", "rank": 0.000174461534055124, "text": "treated"}
+{"count": 1, "ids": [632], "pos": "vbn", "rank": 0.000174461534055124, "text": "implied"}
+{"count": 1, "ids": [661], "pos": "vbn", "rank": 0.000174461534055124, "text": "longerneeded"}
+{"count": 1, "ids": [682], "pos": "nn", "rank": 0.000174461534055124, "text": "issue"}
+{"count": 1, "ids": [574], "pos": "nn", "rank": 0.00017214812567537343, "text": "order"}
+{"count": 1, "ids": [579], "pos": "nnp", "rank": 0.00017214812567537343, "text": "bindjava"}
+{"count": 1, "ids": [195], "pos": "nn", "rank": 0.00017195634217733965, "text": "loader"}
+{"count": 1, "ids": [388], "pos": "nn", "rank": 0.00017099887890388848, "text": "combination"}
+{"count": 1, "ids": [299], "pos": "vbg", "rank": 0.00017016035927246254, "text": "whenquitting"}
+{"count": 1, "ids": [257], "pos": "nnp", "rank": 0.00016995760766797742, "text": "sends"}
+{"count": 1, "ids": [274], "pos": "vbn", "rank": 0.00016995760766797742, "text": "isrevisited"}
+{"count": 1, "ids": [280], "pos": "nn", "rank": 0.00016995760766797742, "text": "drawing"}
+{"count": 1, "ids": [323], "pos": "nn", "rank": 0.00016995760766797742, "text": "life"}
+{"count": 1, "ids": [415], "pos": "nn", "rank": 0.00016857840347570764, "text": "intsvector"}
+{"count": 1, "ids": [485], "pos": "nnp", "rank": 0.00016857840347570764, "text": "objectsin"}
+{"count": 1, "ids": [178], "pos": "nns", "rank": 0.00016803920035622928, "text": "restrictions"}
+{"count": 1, "ids": [608], "pos": "nns", "rank": 0.00016803920035622928, "text": "copysemantics"}
+{"count": 1, "ids": [626], "pos": "vbn", "rank": 0.00016803920035622928, "text": "discussed"}
+{"count": 1, "ids": [522], "pos": "nnp", "rank": 0.00016751498037716132, "text": "objectsbutton"}
+{"count": 1, "ids": [498], "pos": "nns", "rank": 0.00016519721008855003, "text": "brackets"}
+{"count": 1, "ids": [262], "pos": "vbz", "rank": 0.0001632327519948321, "text": "takes"}
+{"count": 1, "ids": [306], "pos": "nnp", "rank": 0.0001632327519948321, "text": "frameremoves"}
+{"count": 1, "ids": [582], "pos": "nnp", "rank": 0.0001632327519948321, "text": "statementsjava"}
+{"count": 1, "ids": [497], "pos": "nn", "rank": 0.00016316451267502538, "text": "square"}
+{"count": 1, "ids": [478], "pos": "vbg", "rank": 0.0001609735829963635, "text": "tostring"}
+{"count": 16, "ids": [6], "pos": "nnp", "rank": 0.00016024263711074296, "text": "reserved"}
+{"count": 1, "ids": [653], "pos": "nnp", "rank": 0.00015845427874177896, "text": "stacks"}
+{"count": 1, "ids": [86], "pos": "vb", "rank": 0.0001561429768598214, "text": "port"}
+{"count": 1, "ids": [293], "pos": "vb", "rank": 0.0001561429768598214, "text": "burden"}
+{"count": 1, "ids": [308], "pos": "vb", "rank": 0.0001561429768598214, "text": "forget"}
+{"count": 3, "ids": [61], "pos": "nn", "rank": 0.00015482444780802264, "text": "contrast"}
+{"count": 1, "ids": [450], "pos": "nn", "rank": 0.00015482444780802264, "text": "codebutton"}
+{"count": 1, "ids": [417], "pos": "nnp", "rank": 0.00015424227165080232, "text": "objectprimitive"}
+{"count": 1, "ids": [105], "pos": "nnp", "rank": 0.00015405434842411656, "text": "securitythe"}
+{"count": 1, "ids": [223], "pos": "nns", "rank": 0.000153929599082181, "text": "portions"}
+{"count": 1, "ids": [445], "pos": "nnp", "rank": 0.0001528080306736276, "text": "buttonobject"}
+{"count": 1, "ids": [66], "pos": "nn", "rank": 0.0001524517715381248, "text": "implementor"}
+{"count": 1, "ids": [518], "pos": "nnp", "rank": 0.00015178534657207376, "text": "nullpointerexception"}
+{"count": 1, "ids": [504], "pos": "nn", "rank": 0.00014459389154821103, "text": "arraya"}
+{"count": 1, "ids": [433], "pos": "nn", "rank": 0.00013974479683493866, "text": "youmust"}
+{"count": 1, "ids": [109], "pos": "vb", "rank": 0.0001366353685343205, "text": "steal"}
+{"count": 2, "ids": [334], "pos": "nnp", "rank": 0.0001366353685343205, "text": "wide"}
+{"count": 1, "ids": [444], "pos": "nn", "rank": 0.0001366353685343205, "text": "figure"}
+{"count": 2, "ids": [549], "pos": "nnp", "rank": 0.00012175751703735911, "text": "f"}
+{"count": 23, "ids": [3], "pos": "nnp", "rank": 9.58829317596561e-05, "text": "jguru"}
+{"count": 1, "ids": [143], "pos": "vbg", "rank": 9.58829317596561e-05, "text": "jumping"}
+{"count": 1, "ids": [177], "pos": "nn", "rank": 9.58829317596561e-05, "text": "hostplatform"}
+{"count": 1, "ids": [193], "pos": "nns", "rank": 9.58829317596561e-05, "text": "programinstantiates"}
+{"count": 1, "ids": [216], "pos": "nn", "rank": 9.58829317596561e-05, "text": "acollection"}
+{"count": 1, "ids": [222], "pos": "vb", "rank": 9.58829317596561e-05, "text": "integrateyour"}
+{"count": 1, "ids": [231], "pos": "vb", "rank": 9.58829317596561e-05, "text": "standardoutput"}
+{"count": 1, "ids": [241], "pos": "nn", "rank": 9.58829317596561e-05, "text": "command"}
+{"count": 1, "ids": [275], "pos": "vbp", "rank": 9.58829317596561e-05, "text": "deiconify"}
+{"count": 2, "ids": [310], "pos": "nn", "rank": 9.58829317596561e-05, "text": "default"}
+{"count": 2, "ids": [333], "pos": "nn", "rank": 9.58829317596561e-05, "text": "world"}
+{"count": 1, "ids": [338], "pos": "nfp", "rank": 9.58829317596561e-05, "text": "0"}
+{"count": 1, "ids": [385], "pos": "nn", "rank": 9.58829317596561e-05, "text": "end"}
+{"count": 1, "ids": [407], "pos": "nn", "rank": 9.58829317596561e-05, "text": "item"}
+{"count": 2, "ids": [490], "pos": "nnp", "rank": 9.58829317596561e-05, "text": "inc"}
+{"count": 1, "ids": [496], "pos": "vb", "rank": 9.58829317596561e-05, "text": "notspecify"}
+{"count": 1, "ids": [594], "pos": "nn", "rank": 9.58829317596561e-05, "text": "statwhilewhile"}
+{"count": 1, "ids": [609], "pos": "vbz", "rank": 9.58829317596561e-05, "text": "means"}
+{"count": 1, "ids": [627], "pos": "vb", "rank": 9.58829317596561e-05, "text": "pretend"}
+{"count": 1, "ids": [636], "pos": "nnp", "rank": 9.58829317596561e-05, "text": "equalitytwo"}
+{"count": 1, "ids": [645], "pos": "vb", "rank": 9.58829317596561e-05, "text": "rewrite"}
+{"count": 1, "ids": [679], "pos": "vbz", "rank": 9.58829317596561e-05, "text": "happens"}
