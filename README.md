@@ -11,5 +11,5 @@
 
 <br/>
 The package pytextrank is extensively used which is a python wrapper for TextRank library.
-
-<pr>Note</pr> Some changes need to be done to the pdf.py file of PyPDF2 package to support space after Tj/TJ in this pdf 
+<br/>
+**Note** Some changes need to be done to the pdf.py file of PyPDF2 package to support space after Tj/TJ in this pdf 
