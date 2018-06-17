@@ -1,5 +1,7 @@
 # keywords_from_pdf
 
+OUTPUT KEYWORDS: [out/20keywords.csv](https://github.com/DristiAI/keywords_from_pdf/blob/master/out/20keywords.csv)
+
 **m.py**           : <pre>returns text from pdf file through the function pdf_to_text</pre> 
 
 **n.py**           : <pre> This modeule can receive command line argument of text file ,
